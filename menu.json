@@ -4,790 +4,1009 @@
         "categories": [
             {
                 "id": 1,
-                "name": "Coffee",
+                "name-en": "Coffee",
+                "name-el": "Καφές",
                 "display_order": 1,
                 "products": [
                     {
                         "id": 101,
-                        "name": "Espresso",
+                        "name-en": "Espresso",
+                        "name-el": "Εσπρέσο",
                         "isActive": true,
                         "price": 2.00,
-                        "description": "Strong and bold single shot."
+                        "description-en": "Strong and bold single shot.",
+                        "description-el": "Δυνατό και έντονο μονό σφηνάκι."
                     },
                     {
                         "id": 102,
-                        "name": "Cappuccino",
+                        "name-en": "Cappuccino",
+                        "name-el": "Καπουτσίνο",
                         "isActive": true,
                         "price": 3.50,
-                        "description": "Espresso with steamed milk and foam."
+                        "description-en": "Espresso with steamed milk and foam.",
+                        "description-el": "Εσπρέσο με ατμοποιημένο γάλα και αφρό."
                     },
                     {
                         "id": 103,
-                        "name": "Latte",
+                        "name-en": "Latte",
+                        "name-el": "Λάτε",
                         "isActive": true,
                         "price": 4.00,
-                        "description": "Espresso with lots of steamed milk."
+                        "description-en": "Espresso with lots of steamed milk.",
+                        "description-el": "Εσπρέσο με πολύ ατμοποιημένο γάλα."
                     },
                     {
                         "id": 104,
-                        "name": "Americano",
+                        "name-en": "Americano",
+                        "name-el": "Αμερικάνο",
                         "isActive": true,
                         "price": 2.50,
-                        "description": "Espresso with hot water."
+                        "description-en": "Espresso with hot water.",
+                        "description-el": "Εσπρέσο με ζεστό νερό."
                     },
                     {
                         "id": 105,
-                        "name": "Mocha",
+                        "name-en": "Mocha",
+                        "name-el": "Μόκα",
                         "isActive": true,
                         "price": 4.50,
-                        "description": "Espresso with chocolate and steamed milk."
+                        "description-en": "Espresso with chocolate and steamed milk.",
+                        "description-el": "Εσπρέσο με σοκολάτα και ατμοποιημένο γάλα."
                     },
                     {
                         "id": 106,
-                        "name": "Macchiato",
+                        "name-en": "Macchiato",
+                        "name-el": "Μακιάτο",
                         "isActive": true,
                         "price": 3.00,
-                        "description": "Espresso with a dash of steamed milk."
+                        "description-en": "Espresso with a dash of steamed milk.",
+                        "description-el": "Εσπρέσο με μια πινελιά ατμοποιημένου γάλακτος."
                     },
                     {
                         "id": 107,
-                        "name": "Flat White",
+                        "name-en": "Flat White",
+                        "name-el": "Φλατ Γουάιτ",
                         "isActive": true,
                         "price": 4.00,
-                        "description": "Double espresso with microfoam."
+                        "description-en": "Double espresso with microfoam.",
+                        "description-el": "Διπλό εσπρέσο με μικροαφρό."
                     },
                     {
                         "id": 108,
-                        "name": "Cold Brew",
+                        "name-en": "Cold Brew",
+                        "name-el": "Κρύος Καφές",
                         "isActive": true,
                         "price": 3.75,
-                        "description": "Slow-steeped cold coffee."
+                        "description-en": "Slow-steeped cold coffee.",
+                        "description-el": "Καφές που εμφυτεύεται αργά σε κρύο νερό."
                     },
                     {
                         "id": 109,
-                        "name": "Iced Coffee",
+                        "name-en": "Iced Coffee",
+                        "name-el": "Παγωμένος Καφές",
                         "isActive": true,
                         "price": 3.50,
-                        "description": "Chilled coffee served over ice."
+                        "description-en": "Chilled coffee served over ice.",
+                        "description-el": "Κρύος καφές σερβιρισμένος με πάγο."
                     },
                     {
                         "id": 110,
-                        "name": "Affogato",
+                        "name-en": "Affogato",
+                        "name-el": "Αφφόγκάτο",
                         "isActive": true,
                         "price": 4.50,
-                        "description": "Espresso poured over vanilla ice cream."
+                        "description-en": "Espresso poured over vanilla ice cream.",
+                        "description-el": "Εσπρέσο που χύνεται πάνω σε παγωτό βανίλιας."
                     },
                     {
                         "id": 111,
-                        "name": "Turkish Coffee",
+                        "name-en": "Turkish Coffee",
+                        "name-el": "Τούρκικος Καφές",
                         "isActive": true,
                         "price": 3.25,
-                        "description": "Traditional unfiltered coffee."
+                        "description-en": "Traditional unfiltered coffee.",
+                        "description-el": "Παραδοσιακός αφύτρωτος καφές."
                     },
                     {
                         "id": 112,
-                        "name": "Irish Coffee",
+                        "name-en": "Irish Coffee",
+                        "name-el": "Ιρλανδικός Καφές",
                         "isActive": true,
                         "price": 6.00,
-                        "description": "Coffee with Irish whiskey and cream."
+                        "description-en": "Coffee with Irish whiskey and cream.",
+                        "description-el": "Καφές με ιρλανδική ουίσκι και κρέμα."
                     },
                     {
                         "id": 113,
-                        "name": "Vietnamese Iced Coffee",
+                        "name-en": "Vietnamese Iced Coffee",
+                        "name-el": "Βιετναμέζικος Παγωμένος Καφές",
                         "isActive": true,
                         "price": 4.25,
-                        "description": "Strong coffee with sweetened condensed milk."
+                        "description-en": "Strong coffee with sweetened condensed milk.",
+                        "description-el": "Δυνατός καφές με γλυκασμένο συμπυκνωμένο γάλα."
                     },
                     {
                         "id": 114,
-                        "name": "Cortado",
+                        "name-en": "Cortado",
+                        "name-el": "Κορτάντο",
                         "isActive": true,
                         "price": 3.50,
-                        "description": "Espresso cut with warm milk."
+                        "description-en": "Espresso cut with warm milk.",
+                        "description-el": "Εσπρέσο με ζεστό γάλα."
                     },
                     {
                         "id": 115,
-                        "name": "Red Eye",
+                        "name-en": "Red Eye",
+                        "name-el": "Κόκκινο Μάτι",
                         "isActive": true,
                         "price": 3.00,
-                        "description": "Drip coffee with a shot of espresso."
+                        "description-en": "Drip coffee with a shot of espresso.",
+                        "description-el": "Σταγονόμετρος καφές με μια δόση εσπρέσο."
                     }
                 ]
             },
             {
                 "id": 2,
-                "name": "Tea",
+                "name-en": "Tea",
+                "name-el": "Τσάι",
                 "display_order": 2,
                 "products": [
                     {
                         "id": 201,
-                        "name": "English Breakfast",
+                        "name-en": "English Breakfast",
+                        "name-el": "Αγγλικό Πρωινό",
                         "isActive": true,
                         "price": 2.50,
-                        "description": "Classic black tea blend."
+                        "description-en": "Classic black tea blend.",
+                        "description-el": "Κλασικό μείγμα μαύρου τσαγιού."
                     },
                     {
                         "id": 202,
-                        "name": "Earl Grey",
+                        "name-en": "Earl Grey",
+                        "name-el": "Earl Grey",
                         "isActive": true,
                         "price": 2.50,
-                        "description": "Black tea with bergamot."
+                        "description-en": "Black tea with bergamot.",
+                        "description-el": "Μαύρο τσάι με μπεργκαμότ."
                     },
                     {
                         "id": 203,
-                        "name": "Chamomile",
+                        "name-en": "Chamomile",
+                        "name-el": "Χαμομήλι",
                         "isActive": true,
                         "price": 2.50,
-                        "description": "Herbal tea for relaxation."
+                        "description-en": "Herbal tea for relaxation.",
+                        "description-el": "Βοτανικό τσάι για χαλάρωση."
                     },
                     {
                         "id": 204,
-                        "name": "Peppermint",
+                        "name-en": "Peppermint",
+                        "name-el": "Δυόσμος",
                         "isActive": true,
                         "price": 2.50,
-                        "description": "Refreshing herbal tea."
+                        "description-en": "Refreshing herbal tea.",
+                        "description-el": "Δροσιστικό βοτανικό τσάι."
                     },
                     {
                         "id": 205,
-                        "name": "Green Tea",
+                        "name-en": "Green Tea",
+                        "name-el": "Πράσινο Τσάι",
                         "isActive": true,
                         "price": 2.75,
-                        "description": "Light and antioxidant-rich."
+                        "description-en": "Light and antioxidant-rich.",
+                        "description-el": "Ελαφρύ και πλούσιο σε αντιοξειδωτικά."
                     },
                     {
                         "id": 206,
-                        "name": "Jasmine Tea",
+                        "name-en": "Jasmine Tea",
+                        "name-el": "Τσάι Γιασεμίου",
                         "isActive": true,
                         "price": 3.00,
-                        "description": "Green tea scented with jasmine flowers."
+                        "description-en": "Green tea scented with jasmine flowers.",
+                        "description-el": "Πράσινο τσάι αρωματισμένο με άνθη γιασεμιού."
                     },
                     {
                         "id": 207,
-                        "name": "Matcha Latte",
+                        "name-en": "Matcha Latte",
+                        "name-el": "Matcha Latte",
                         "isActive": true,
                         "price": 4.50,
-                        "description": "Japanese green tea powder with milk."
+                        "description-en": "Japanese green tea powder with milk.",
+                        "description-el": "Ιαπωνική σκόνη πράσινου τσαγιού με γάλα."
                     },
                     {
                         "id": 208,
-                        "name": "Chai Latte",
+                        "name-en": "Chai Latte",
+                        "name-el": "Chai Latte",
                         "isActive": true,
                         "price": 4.00,
-                        "description": "Spiced tea with steamed milk."
+                        "description-en": "Spiced tea with steamed milk.",
+                        "description-el": "Τσάι με μπαχαρικά και ατμοποιημένο γάλα."
                     },
                     {
                         "id": 209,
-                        "name": "Oolong Tea",
+                        "name-en": "Oolong Tea",
+                        "name-el": "Oolong Tea",
                         "isActive": true,
                         "price": 3.25,
-                        "description": "Traditional Chinese semi-oxidized tea."
+                        "description-en": "Traditional Chinese semi-oxidized tea.",
+                        "description-el": "Παραδοσιακό κινέζικο ημι-οξειδωμένο τσάι."
                     },
                     {
                         "id": 210,
-                        "name": "White Tea",
+                        "name-en": "White Tea",
+                        "name-el": "Λευκό Τσάι",
                         "isActive": true,
                         "price": 3.50,
-                        "description": "Delicate and minimally processed."
+                        "description-en": "Delicate and minimally processed.",
+                        "description-el": "Λεπτό και ελάχιστα επεξεργασμένο."
                     },
                     {
                         "id": 211,
-                        "name": "Hibiscus Tea",
+                        "name-en": "Hibiscus Tea",
+                        "name-el": "Τσάι Ιβίσκου",
                         "isActive": true,
                         "price": 2.75,
-                        "description": "Tart and caffeine-free herbal tea."
+                        "description-en": "Tart and caffeine-free herbal tea.",
+                        "description-el": "Ξινό και χωρίς καφεΐνη βοτανικό τσάι."
                     },
                     {
                         "id": 212,
-                        "name": "Rooibos Tea",
+                        "name-en": "Rooibos Tea",
+                        "name-el": "Rooibos Tea",
                         "isActive": true,
                         "price": 2.75,
-                        "description": "South African red bush tea."
+                        "description-en": "South African red bush tea.",
+                        "description-el": "Νοτιοαφρικανικό τσάι από κόκκινο θάμνο."
                     },
                     {
                         "id": 213,
-                        "name": "Yerba Mate",
+                        "name-en": "Yerba Mate",
+                        "name-el": "Yerba Mate",
                         "isActive": true,
                         "price": 3.50,
-                        "description": "South American energizing herbal tea."
+                        "description-en": "South American energizing herbal tea.",
+                        "description-el": "Νοτιοαμερικανικό ενεργοποιητικό βοτανικό τσάι."
                     },
                     {
                         "id": 214,
-                        "name": "Bubble Tea",
+                        "name-en": "Bubble Tea",
+                        "name-el": "Bubble Tea",
                         "isActive": true,
                         "price": 5.00,
-                        "description": "Tea with milk and chewy tapioca pearls."
+                        "description-en": "Tea with milk and chewy tapioca pearls.",
+                        "description-el": "Τσάι με γάλα και μαστιχωτά μαργαριτάρια ταπιόκα."
                     },
                     {
                         "id": 215,
-                        "name": "Iced Tea",
+                        "name-en": "Iced Tea",
+                        "name-el": "Παγωμένο Τσάι",
                         "isActive": true,
                         "price": 3.00,
-                        "description": "Chilled tea served over ice."
+                        "description-en": "Chilled tea served over ice.",
+                        "description-el": "Κρύο τσάι σερβιρισμένο με πάγο."
                     }
                 ]
             },
             {
                 "id": 3,
-                "name": "Cold Drinks",
+                "name-en": "Cold Drinks",
+                "name-el": "Κρύα Ποτά",
                 "display_order": 3,
                 "products": [
                     {
                         "id": 301,
-                        "name": "Iced Latte",
+                        "name-en": "Iced Latte",
+                        "name-el": "Παγωμένο Λάτε",
                         "isActive": true,
                         "price": 4.50,
-                        "description": "Espresso with cold milk over ice."
+                        "description-en": "Espresso with cold milk over ice.",
+                        "description-el": "Εσπρέσο με κρύο γάλα και πάγο."
                     },
                     {
                         "id": 302,
-                        "name": "Iced Mocha",
+                        "name-en": "Iced Mocha",
+                        "name-el": "Παγωμένο Μόκα",
                         "isActive": true,
                         "price": 5.00,
-                        "description": "Chocolate, espresso and milk over ice."
+                        "description-en": "Chocolate, espresso and milk over ice.",
+                        "description-el": "Σοκολάτα, εσπρέσο και γάλα με πάγο."
                     },
                     {
                         "id": 303,
-                        "name": "Frappuccino",
+                        "name-en": "Frappuccino",
+                        "name-el": "Frappuccino",
                         "isActive": true,
                         "price": 5.50,
-                        "description": "Blended iced coffee drink."
+                        "description-en": "Blended iced coffee drink.",
+                        "description-el": "Παγωμένος καφές με μίξερ."
                     },
                     {
                         "id": 304,
-                        "name": "Milkshake",
+                        "name-en": "Milkshake",
+                        "name-el": "Μιλκσέικ",
                         "isActive": true,
                         "price": 5.00,
-                        "description": "Creamy blended milk drink."
+                        "description-en": "Creamy blended milk drink.",
+                        "description-el": "Κρεμώδες ποτό με γάλα και παγωτό."
                     },
                     {
                         "id": 305,
-                        "name": "Smoothie",
+                        "name-en": "Smoothie",
+                        "name-el": "Smoothie",
                         "isActive": true,
                         "price": 5.50,
-                        "description": "Blended fruit drink."
+                        "description-en": "Blended fruit drink.",
+                        "description-el": "Ποτό με φρέσκα φρούτα και παγωτό."
                     },
                     {
                         "id": 306,
-                        "name": "Lemonade",
+                        "name-en": "Lemonade",
+                        "name-el": "Λεμονάδα",
                         "isActive": true,
                         "price": 3.50,
-                        "description": "Refreshing lemon drink."
+                        "description-en": "Refreshing lemon drink.",
+                        "description-el": "Δροσιστική λεμονάδα."
                     },
                     {
                         "id": 307,
-                        "name": "Iced Matcha",
+                        "name-en": "Iced Matcha",
+                        "name-el": "Παγωμένο Matcha",
                         "isActive": true,
                         "price": 4.75,
-                        "description": "Chilled matcha green tea."
+                        "description-en": "Chilled matcha green tea.",
+                        "description-el": "Κρύο πράσινο τσάι matcha."
                     },
                     {
                         "id": 308,
-                        "name": "Iced Chai",
+                        "name-en": "Iced Chai",
+                        "name-el": "Παγωμένο Chai",
                         "isActive": true,
                         "price": 4.50,
-                        "description": "Spiced tea latte served cold."
+                        "description-en": "Spiced tea latte served cold.",
+                        "description-el": "Κρύο τσάι latte με μπαχαρικά."
                     },
                     {
                         "id": 309,
-                        "name": "Sparkling Water",
+                        "name-en": "Sparkling Water",
+                        "name-el": "Αεριούχο Νερό",
                         "isActive": true,
                         "price": 2.50,
-                        "description": "Carbonated mineral water."
+                        "description-en": "Carbonated mineral water.",
+                        "description-el": "Αναψυκτικό με ανθρακικό νερό."
                     },
                     {
                         "id": 310,
-                        "name": "Soda",
+                        "name-en": "Soda",
+                        "name-el": "Σόδα",
                         "isActive": true,
                         "price": 2.75,
-                        "description": "Various carbonated soft drinks."
+                        "description-en": "Various carbonated soft drinks.",
+                        "description-el": "Διάφορα αναψυκτικά με ανθρακικό."
                     },
                     {
                         "id": 311,
-                        "name": "Iced Tea Lemonade",
+                        "name-en": "Iced Tea Lemonade",
+                        "name-el": "Παγωμένο Τσάι με Λεμονάδα",
                         "isActive": true,
                         "price": 4.00,
-                        "description": "Half iced tea, half lemonade."
+                        "description-en": "Half iced tea, half lemonade.",
+                        "description-el": "Μίξη παγωμένου τσαγιού και λεμονάδας."
                     },
                     {
                         "id": 312,
-                        "name": "Cold Brew Tonic",
+                        "name-en": "Cold Brew Tonic",
+                        "name-el": "Cold Brew Tonic",
                         "isActive": true,
                         "price": 4.50,
-                        "description": "Cold brew coffee with tonic water."
+                        "description-en": "Cold brew coffee with tonic water.",
+                        "description-el": "Κρύος καφές με τόνικ."
                     },
                     {
                         "id": 313,
-                        "name": "Italian Soda",
+                        "name-en": "Italian Soda",
+                        "name-el": "Ιταλική Σόδα",
                         "isActive": true,
                         "price": 3.75,
-                        "description": "Sparkling water with flavored syrup."
+                        "description-en": "Sparkling water with flavored syrup.",
+                        "description-el": "Αεριούχο νερό με γλυκάνισο."
                     },
                     {
                         "id": 314,
-                        "name": "Juice",
+                        "name-en": "Juice",
+                        "name-el": "Χυμός",
                         "isActive": true,
                         "price": 3.50,
-                        "description": "Freshly squeezed fruit juice."
+                        "description-en": "Freshly squeezed fruit juice.",
+                        "description-el": "Φυσικός χυμός φρούτων."
                     },
                     {
                         "id": 315,
-                        "name": "Energy Drink",
+                        "name-en": "Energy Drink",
+                        "name-el": "Energy Drink",
                         "isActive": true,
                         "price": 4.00,
-                        "description": "Carbonated energy beverage."
+                        "description-en": "Carbonated energy beverage.",
+                        "description-el": "Αναψυκτικό με ενεργειακή δράση."
                     }
                 ]
             },
             {
                 "id": 4,
-                "name": "Bakery",
+                "name-en": "Bakery",
+                "name-el": "Φούρνος",
                 "display_order": 4,
                 "products": [
                     {
                         "id": 401,
-                        "name": "Croissant",
+                        "name-en": "Croissant",
+                        "name-el": "Κρουασάν",
                         "isActive": true,
                         "price": 2.50,
-                        "description": "Classic French pastry."
+                        "description-en": "Classic French pastry.",
+                        "description-el": "Κλασικό γαλλικό γλυκό."
                     },
                     {
                         "id": 402,
-                        "name": "Chocolate Croissant",
+                        "name-en": "Chocolate Croissant",
+                        "name-el": "Κρουασάν με Σοκολάτα",
                         "isActive": true,
                         "price": 3.00,
-                        "description": "Buttery croissant with chocolate filling."
+                        "description-en": "Buttery croissant with chocolate filling.",
+                        "description-el": "Βουτυρένιο κρουασάν με γέμιση σοκολάτας."
                     },
                     {
                         "id": 403,
-                        "name": "Almond Croissant",
+                        "name-en": "Almond Croissant",
+                        "name-el": "Κρουασάν με Αμύγδαλα",
                         "isActive": true,
                         "price": 3.50,
-                        "description": "Croissant with almond cream filling."
+                        "description-en": "Croissant with almond cream filling.",
+                        "description-el": "Κρουασάν με κρέμα αμυγδάλου."
                     },
                     {
                         "id": 404,
-                        "name": "Danish",
+                        "name-en": "Danish",
+                        "name-el": "Ντένις",
                         "isActive": true,
                         "price": 3.25,
-                        "description": "Flaky pastry with fruit or cheese filling."
+                        "description-en": "Flaky pastry with fruit or cheese filling.",
+                        "description-el": "Φύλλο με γέμιση φρούτων ή τυριού."
                     },
                     {
                         "id": 405,
-                        "name": "Muffin",
+                        "name-en": "Muffin",
+                        "name-el": "Μάφιν",
                         "isActive": true,
                         "price": 2.75,
-                        "description": "Freshly baked muffin."
+                        "description-en": "Freshly baked muffin.",
+                        "description-el": "Φρεσκοψημένο μάφιν."
                     },
                     {
                         "id": 406,
-                        "name": "Scone",
+                        "name-en": "Scone",
+                        "name-el": "Σκον",
                         "isActive": true,
                         "price": 2.50,
-                        "description": "British-style baked good."
+                        "description-en": "British-style baked good.",
+                        "description-el": "Αγγλικής κουζίνας γλυκό."
                     },
                     {
                         "id": 407,
-                        "name": "Bagel",
+                        "name-en": "Bagel",
+                        "name-el": "Μπέιγκελ",
                         "isActive": true,
                         "price": 2.25,
-                        "description": "New York-style bagel."
+                        "description-en": "New York-style bagel.",
+                        "description-el": "Μπέιγκελ Νέου Υόρκης."
                     },
                     {
                         "id": 408,
-                        "name": "Cinnamon Roll",
+                        "name-en": "Cinnamon Roll",
+                        "name-el": "Ρολό με Κανέλα",
                         "isActive": true,
                         "price": 3.50,
-                        "description": "Sweet rolled pastry with cinnamon."
+                        "description-en": "Sweet rolled pastry with cinnamon.",
+                        "description-el": "Γλυκό ρολό με κανέλα."
                     },
                     {
                         "id": 409,
-                        "name": "Donut",
+                        "name-en": "Donut",
+                        "name-el": "Ντόνατ",
                         "isActive": true,
                         "price": 2.50,
-                        "description": "Classic ring donut."
+                        "description-en": "Classic ring donut.",
+                        "description-el": "Κλασικό ντόνατ δακτυλίδι."
                     },
                     {
                         "id": 410,
-                        "name": "Brownie",
+                        "name-en": "Brownie",
+                        "name-el": "Μπράουνι",
                         "isActive": true,
                         "price": 3.00,
-                        "description": "Rich chocolate square."
+                        "description-en": "Rich chocolate square.",
+                        "description-el": "Πλούσια σοκολατένια γλύκα."
                     },
                     {
                         "id": 411,
-                        "name": "Cookie",
+                        "name-en": "Cookie",
+                        "name-el": "Μπισκότο",
                         "isActive": true,
                         "price": 1.75,
-                        "description": "Freshly baked cookie."
+                        "description-en": "Freshly baked cookie.",
+                        "description-el": "Φρεσκοψημένο μπισκότο."
                     },
                     {
                         "id": 412,
-                        "name": "Banana Bread",
+                        "name-en": "Banana Bread",
+                        "name-el": "Ψωμί Μπανάνας",
                         "isActive": true,
                         "price": 3.25,
-                        "description": "Moist banana loaf."
+                        "description-en": "Moist banana loaf.",
+                        "description-el": "Υγρή πίτα με μπανάνες."
                     },
                     {
                         "id": 413,
-                        "name": "Pound Cake",
+                        "name-en": "Pound Cake",
+                        "name-el": "Πάουντ Κέικ",
                         "isActive": true,
                         "price": 3.50,
-                        "description": "Dense buttery cake."
+                        "description-en": "Dense buttery cake.",
+                        "description-el": "Πλούσιο βουτυρένιο κέικ."
                     },
                     {
                         "id": 414,
-                        "name": "Tart",
+                        "name-en": "Tart",
+                        "name-el": "Τάρτα",
                         "isActive": true,
                         "price": 4.00,
-                        "description": "French-style fruit tart."
+                        "description-en": "French-style fruit tart.",
+                        "description-el": "Γαλλικού στυλ τάρτα με φρούτα."
                     },
                     {
                         "id": 415,
-                        "name": "Biscotti",
+                        "name-en": "Biscotti",
+                        "name-el": "Μπισκότα",
                         "isActive": true,
                         "price": 2.00,
-                        "description": "Italian almond biscuit."
+                        "description-en": "Italian almond biscuit.",
+                        "description-el": "Ιταλικό αμυγδαλένιο μπισκότο."
                     }
                 ]
             },
             {
                 "id": 5,
-                "name": "Breakfast",
+                "name-en": "Breakfast",
+                "name-el": "Πρωινό",
                 "display_order": 5,
                 "products": [
                     {
                         "id": 501,
-                        "name": "Avocado Toast",
+                        "name-en": "Avocado Toast",
+                        "name-el": "Τοστ με Αβοκάντο",
                         "isActive": true,
                         "price": 7.50,
-                        "description": "Sourdough with smashed avocado."
+                        "description-en": "Sourdough with smashed avocado.",
+                        "description-el": "Ξινόψωμο με πουρέ αβοκάντο."
                     },
                     {
                         "id": 502,
-                        "name": "Breakfast Sandwich",
+                        "name-en": "Breakfast Sandwich",
+                        "name-el": "Σάντουιτς Πρωινού",
                         "isActive": true,
                         "price": 6.50,
-                        "description": "Egg, cheese and bacon on a croissant."
+                        "description-en": "Egg, cheese and bacon on a croissant.",
+                        "description-el": "Αυγό, τυρί και μπέικον σε κρουασάν."
                     },
                     {
                         "id": 503,
-                        "name": "Oatmeal",
+                        "name-en": "Oatmeal",
+                        "name-el": "Βρώμη",
                         "isActive": true,
                         "price": 5.00,
-                        "description": "Steel-cut oats with toppings."
+                        "description-en": "Steel-cut oats with toppings.",
+                        "description-el": "Βρώμη με επιλογή γαρνιτούρας."
                     },
                     {
                         "id": 504,
-                        "name": "Yogurt Parfait",
+                        "name-en": "Yogurt Parfait",
+                        "name-el": "Παρφέ Γιαουρτιού",
                         "isActive": true,
                         "price": 5.50,
-                        "description": "Greek yogurt with granola and fruit."
+                        "description-en": "Greek yogurt with granola and fruit.",
+                        "description-el": "Ελληνικό γιαούρτι με γκρανόλα και φρούτα."
                     },
                     {
                         "id": 505,
-                        "name": "Breakfast Burrito",
+                        "name-en": "Breakfast Burrito",
+                        "name-el": "Μπουρίτο Πρωινού",
                         "isActive": true,
                         "price": 8.00,
-                        "description": "Scrambled eggs, beans and cheese in tortilla."
+                        "description-en": "Scrambled eggs, beans and cheese in tortilla.",
+                        "description-el": "Ομελέτα, φασόλια και τυρί σε τορτίγια."
                     },
                     {
                         "id": 506,
-                        "name": "Pancakes",
+                        "name-en": "Pancakes",
+                        "name-el": "Πανκέικς",
                         "isActive": true,
                         "price": 7.00,
-                        "description": "Stack of fluffy pancakes."
+                        "description-en": "Stack of fluffy pancakes.",
+                        "description-el": "Στοίβα από αφράτα πανκέικς."
                     },
                     {
                         "id": 507,
-                        "name": "Waffles",
+                        "name-en": "Waffles",
+                        "name-el": "Βάφλες",
                         "isActive": true,
                         "price": 7.50,
-                        "description": "Crispy Belgian waffle."
+                        "description-en": "Crispy Belgian waffle.",
+                        "description-el": "Τραγανές βελγικές βάφλες."
                     },
                     {
                         "id": 508,
-                        "name": "French Toast",
+                        "name-en": "French Toast",
+                        "name-el": "Γαλλικό Τοστ",
                         "isActive": true,
                         "price": 7.50,
-                        "description": "Brioche dipped in egg batter."
+                        "description-en": "Brioche dipped in egg batter.",
+                        "description-el": "Μπριόζα βουτηγμένη σε κουρκούτι."
                     },
                     {
                         "id": 509,
-                        "name": "Eggs Benedict",
+                        "name-en": "Eggs Benedict",
+                        "name-el": "Eggs Benedict",
                         "isActive": true,
                         "price": 9.50,
-                        "description": "Poached eggs on English muffin with hollandaise."
+                        "description-en": "Poached eggs on English muffin with hollandaise.",
+                        "description-el": "Αβγά ποσέ σε αγγλικό muffin με σάλτσα hollandaise."
                     },
                     {
                         "id": 510,
-                        "name": "Breakfast Bowl",
+                        "name-en": "Breakfast Bowl",
+                        "name-el": "Μπολ Πρωινού",
                         "isActive": true,
                         "price": 8.50,
-                        "description": "Quinoa, greens, eggs and avocado."
+                        "description-en": "Quinoa, greens, eggs and avocado.",
+                        "description-el": "Κινόα, χόρτα, αυγά και αβοκάντο."
                     },
                     {
                         "id": 511,
-                        "name": "Bagel Sandwich",
+                        "name-en": "Bagel Sandwich",
+                        "name-el": "Σάντουιτς Μπέιγκελ",
                         "isActive": true,
                         "price": 6.00,
-                        "description": "Cream cheese, tomato and cucumber on bagel."
+                        "description-en": "Cream cheese, tomato and cucumber on bagel.",
+                        "description-el": "Κριμ τυρί, ντομάτα και αγγούρι σε μπέιγκελ."
                     },
                     {
                         "id": 512,
-                        "name": "Shakshuka",
+                        "name-en": "Shakshuka",
+                        "name-el": "Shakshuka",
                         "isActive": true,
                         "price": 9.00,
-                        "description": "Eggs poached in tomato sauce."
+                        "description-en": "Eggs poached in tomato sauce.",
+                        "description-el": "Αβγά ποσέ σε σάλτσα ντομάτας."
                     },
                     {
                         "id": 513,
-                        "name": "Chia Pudding",
+                        "name-en": "Chia Pudding",
+                        "name-el": "Πουτινγκ Chia",
                         "isActive": true,
                         "price": 5.50,
-                        "description": "Chia seeds soaked in almond milk."
+                        "description-en": "Chia seeds soaked in almond milk.",
+                        "description-el": "Σπόροι chia σε γάλα αμυγδάλου."
                     },
                     {
                         "id": 514,
-                        "name": "Breakfast Quesadilla",
+                        "name-en": "Breakfast Quesadilla",
+                        "name-el": "Κεσαδίγια Πρωινού",
                         "isActive": true,
                         "price": 7.50,
-                        "description": "Scrambled eggs and cheese in tortilla."
+                        "description-en": "Scrambled eggs and cheese in tortilla.",
+                        "description-el": "Ομελέτα και τυρί σε τορτίγια."
                     },
                     {
                         "id": 515,
-                        "name": "Granola",
+                        "name-en": "Granola",
+                        "name-el": "Γκρανόλα",
                         "isActive": true,
                         "price": 4.50,
-                        "description": "House-made granola with milk."
+                        "description-en": "House-made granola with milk.",
+                        "description-el": "Σπιτική γκρανόλα με γάλα."
                     }
                 ]
             },
             {
                 "id": 6,
-                "name": "Lunch",
+                "name-en": "Lunch",
+                "name-el": "Γεύμα",
                 "display_order": 6,
                 "products": [
                     {
                         "id": 601,
-                        "name": "Grilled Cheese",
+                        "name-en": "Grilled Cheese",
+                        "name-el": "Τηγανητή Τοστ",
                         "isActive": true,
                         "price": 6.50,
-                        "description": "Classic melted cheese sandwich."
+                        "description-en": "Classic melted cheese sandwich.",
+                        "description-el": "Κλασικό σάντουιτς με λιωμένο τυρί."
                     },
                     {
                         "id": 602,
-                        "name": "BLT Sandwich",
+                        "name-en": "BLT Sandwich",
+                        "name-el": "BLT Σάντουιτς",
                         "isActive": true,
                         "price": 7.50,
-                        "description": "Bacon, lettuce and tomato on toast."
+                        "description-en": "Bacon, lettuce and tomato on toast.",
+                        "description-el": "Μπέικον, μαρούλι και ντομάτα σε φρυγανισμένο ψωμί."
                     },
                     {
                         "id": 603,
-                        "name": "Chicken Panini",
+                        "name-en": "Chicken Panini",
+                        "name-el": "Πανίνι Κοτόπουλο",
                         "isActive": true,
                         "price": 8.50,
-                        "description": "Pressed chicken and pesto sandwich."
+                        "description-en": "Pressed chicken and pesto sandwich.",
+                        "description-el": "Σάντουιτς με κοτόπουλο και πέστο σε πανίνι."
                     },
                     {
                         "id": 604,
-                        "name": "Quiche",
+                        "name-en": "Quiche",
+                        "name-el": "Κις",
                         "isActive": true,
                         "price": 7.00,
-                        "description": "Savory egg and cheese pie."
+                        "description-en": "Savory egg and cheese pie.",
+                        "description-el": "Αλμυρή πίτα με αυγά και τυρί."
                     },
                     {
                         "id": 605,
-                        "name": "Caesar Salad",
+                        "name-en": "Caesar Salad",
+                        "name-el": "Σαλάτα Καίσαρα",
                         "isActive": true,
                         "price": 8.50,
-                        "description": "Romaine, croutons and parmesan."
+                        "description-en": "Romaine, croutons and parmesan.",
+                        "description-el": "Μαρούλι, κρουτόν και παρμεζάνα."
                     },
                     {
                         "id": 606,
-                        "name": "Cobb Salad",
+                        "name-en": "Cobb Salad",
+                        "name-el": "Σαλάτα Cobb",
                         "isActive": true,
                         "price": 9.50,
-                        "description": "Greens with chicken, bacon and eggs."
+                        "description-en": "Greens with chicken, bacon and eggs.",
+                        "description-el": "Χόρτα με κοτόπουλο, μπέικον και αυγά."
                     },
                     {
                         "id": 607,
-                        "name": "Veggie Wrap",
+                        "name-en": "Veggie Wrap",
+                        "name-el": "Βιγκαν Ρολό",
                         "isActive": true,
                         "price": 7.50,
-                        "description": "Grilled vegetables in tortilla."
+                        "description-en": "Grilled vegetables in tortilla.",
+                        "description-el": "Ψητά λαχανικά σε τορτίγια."
                     },
                     {
                         "id": 608,
-                        "name": "Tuna Melt",
+                        "name-en": "Tuna Melt",
+                        "name-el": "Τόνος Λιωμένος",
                         "isActive": true,
                         "price": 8.00,
-                        "description": "Tuna salad with melted cheese."
+                        "description-en": "Tuna salad with melted cheese.",
+                        "description-el": "Σαλάτα τόνου με λιωμένο τυρί."
                     },
                     {
                         "id": 609,
-                        "name": "Tomato Soup",
+                        "name-en": "Tomato Soup",
+                        "name-el": "Κρεμμύδι Σούπα",
                         "isActive": true,
                         "price": 5.50,
-                        "description": "Creamy tomato soup."
+                        "description-en": "Creamy tomato soup.",
+                        "description-el": "Κρεμώδης σούπα ντομάτας."
                     },
                     {
                         "id": 610,
-                        "name": "Chicken Salad",
+                        "name-en": "Chicken Salad",
+                        "name-el": "Σαλάτα Κοτόπουλο",
                         "isActive": true,
                         "price": 8.50,
-                        "description": "Chicken with greens and dressing."
+                        "description-en": "Chicken with greens and dressing.",
+                        "description-el": "Κοτόπουλο με χόρτα και σάλτσα."
                     },
                     {
                         "id": 611,
-                        "name": "Turkey Club",
+                        "name-en": "Turkey Club",
+                        "name-el": "Κλαμπ Γαλοπούλας",
                         "isActive": true,
                         "price": 8.50,
-                        "description": "Triple-decker turkey sandwich."
+                        "description-en": "Triple-decker turkey sandwich.",
+                        "description-el": "Τριπλό σάντουιτς με γαλοπούλα."
                     },
                     {
                         "id": 612,
-                        "name": "Greek Salad",
+                        "name-en": "Greek Salad",
+                        "name-el": "Χωριάτικη Σαλάτα",
                         "isActive": true,
                         "price": 8.00,
-                        "description": "Cucumber, tomato, olives and feta."
+                        "description-en": "Cucumber, tomato, olives and feta.",
+                        "description-el": "Αγγούρι, ντομάτα, ελιές και φέτα."
                     },
                     {
                         "id": 613,
-                        "name": "Avocado Salad",
+                        "name-en": "Avocado Salad",
+                        "name-el": "Σαλάτα Αβοκάντο",
                         "isActive": true,
                         "price": 8.50,
-                        "description": "Mixed greens with avocado and nuts."
+                        "description-en": "Mixed greens with avocado and nuts.",
+                        "description-el": "Χόρτα με αβοκάντο και ξηρούς καρπούς."
                     },
                     {
                         "id": 614,
-                        "name": "Caprese Sandwich",
+                        "name-en": "Caprese Sandwich",
+                        "name-el": "Σάντουιτς Καπρέζε",
                         "isActive": true,
                         "price": 7.50,
-                        "description": "Mozzarella, tomato and basil on ciabatta."
+                        "description-en": "Mozzarella, tomato and basil on ciabatta.",
+                        "description-el": "Μοτσαρέλα, ντομάτα και βασιλικός σε τσιμπάτα."
                     },
                     {
                         "id": 615,
-                        "name": "Chicken Wrap",
+                        "name-en": "Chicken Wrap",
+                        "name-el": "Ρολό Κοτόπουλο",
                         "isActive": true,
                         "price": 8.50,
-                        "description": "Grilled chicken in tortilla with veggies."
+                        "description-en": "Grilled chicken in tortilla with veggies.",
+                        "description-el": "Ψητό κοτόπουλο σε τορτίγια με λαχανικά."
                     }
                 ]
             },
             {
                 "id": 7,
-                "name": "Desserts",
+                "name-en": "Desserts",
+                "name-el": "Επιδόρπια",
                 "display_order": 7,
                 "products": [
                     {
                         "id": 701,
-                        "name": "Cheesecake",
+                        "name-en": "Cheesecake",
+                        "name-el": "Τσίζκέικ",
                         "isActive": true,
                         "price": 5.50,
-                        "description": "Classic New York cheesecake."
+                        "description-en": "Classic New York cheesecake.",
+                        "description-el": "Κλασικό τσίζκέικ Νέας Υόρκης."
                     },
                     {
                         "id": 702,
-                        "name": "Tiramisu",
+                        "name-en": "Tiramisu",
+                        "name-el": "Τιραμισού",
                         "isActive": true,
                         "price": 6.00,
-                        "description": "Italian coffee-flavored dessert."
+                        "description-en": "Italian coffee-flavored dessert.",
+                        "description-el": "Ιταλικό επιδόρπιο με γεύση καφέ."
                     },
                     {
                         "id": 703,
-                        "name": "Chocolate Cake",
+                        "name-en": "Chocolate Cake",
+                        "name-el": "Σοκολατόπιτα",
                         "isActive": true,
                         "price": 5.50,
-                        "description": "Rich chocolate layer cake."
+                        "description-en": "Rich chocolate layer cake.",
+                        "description-el": "Πλούσια σοκολατένια τούρτα."
                     },
                     {
                         "id": 704,
-                        "name": "Carrot Cake",
+                        "name-en": "Carrot Cake",
+                        "name-el": "Κέικ Καρότο",
                         "isActive": true,
                         "price": 5.50,
-                        "description": "Spiced cake with cream cheese frosting."
+                        "description-en": "Spiced cake with cream cheese frosting.",
+                        "description-el": "Κέικ με καρότα και κρέμα τυριού."
                     },
                     {
                         "id": 705,
-                        "name": "Creme Brulee",
+                        "name-en": "Creme Brulee",
+                        "name-el": "Κρεμ Μπριλέ",
                         "isActive": true,
                         "price": 6.50,
-                        "description": "Vanilla custard with caramelized sugar."
+                        "description-en": "Vanilla custard with caramelized sugar.",
+                        "description-el": "Κρέμα βανίλιας με καραμελωμένη ζάχαρη."
                     },
                     {
                         "id": 706,
-                        "name": "Apple Pie",
+                        "name-en": "Apple Pie",
+                        "name-el": "Μηλόπιτα",
                         "isActive": true,
                         "price": 5.00,
-                        "description": "Classic American pie."
+                        "description-en": "Classic American pie.",
+                        "description-el": "Κλασική αμερικανική μηλόπιτα."
                     },
                     {
                         "id": 707,
-                        "name": "Ice Cream",
+                        "name-en": "Ice Cream",
+                        "name-el": "Παγωτό",
                         "isActive": true,
                         "price": 4.50,
-                        "description": "Scoop of premium ice cream."
+                        "description-en": "Scoop of premium ice cream.",
+                        "description-el": "Μπάλα παγωτού υψηλής ποιότητας."
                     },
                     {
                         "id": 708,
-                        "name": "Chocolate Mousse",
+                        "name-en": "Chocolate Mousse",
+                        "name-el": "Σοκολατένια Μους",
                         "isActive": true,
                         "price": 5.50,
-                        "description": "Light and airy chocolate dessert."
+                        "description-en": "Light and airy chocolate dessert.",
+                        "description-el": "Ελαφριά σοκολατένια κρέμα."
                     },
                     {
                         "id": 709,
-                        "name": "Panna Cotta",
+                        "name-en": "Panna Cotta",
+                        "name-el": "Πάνα Κότα",
                         "isActive": true,
                         "price": 6.00,
-                        "description": "Italian cooked cream dessert."
+                        "description-en": "Italian cooked cream dessert.",
+                        "description-el": "Ιταλικό επιδόρπιο με κρέμα."
                     },
                     {
                         "id": 710,
-                        "name": "Macarons",
+                        "name-en": "Macarons",
+                        "name-el": "Μακαρόν",
                         "isActive": true,
                         "price": 2.50,
-                        "description": "French almond meringue cookies."
+                        "description-en": "French almond meringue cookies.",
+                        "description-el": "Γαλλικά μπισκότα με αμύγδαλο."
                     },
                     {
                         "id": 711,
-                        "name": "Eclair",
+                        "name-en": "Eclair",
+                        "name-el": "Εκλέρ",
                         "isActive": true,
                         "price": 4.50,
-                        "description": "Cream-filled choux pastry."
+                        "description-en": "Cream-filled choux pastry.",
+                        "description-el": "Γλυκό με κρέμα και σοκολάτα."
                     },
                     {
                         "id": 712,
-                        "name": "Cannoli",
+                        "name-en": "Cannoli",
+                        "name-el": "Καννόλι",
                         "isActive": true,
                         "price": 4.00,
-                        "description": "Italian pastry with sweet ricotta."
+                        "description-en": "Italian pastry with sweet ricotta.",
+                        "description-el": "Ιταλικό γλυκό με γλυκό ρικότα."
                     },
                     {
                         "id": 713,
-                        "name": "Fruit Tart",
+                        "name-en": "Fruit Tart",
+                        "name-el": "Τάρτα Φρούτων",
                         "isActive": true,
                         "price": 5.50,
-                        "description": "Pastry with custard and fresh fruit."
+                        "description-en": "Pastry with custard and fresh fruit.",
+                        "description-el": "Τάρτα με κρέμα και φρέσκα φρούτα."
                     },
                     {
                         "id": 714,
-                        "name": "Lemon Bar",
+                        "name-en": "Lemon Bar",
+                        "name-el": "Λεμονένιο Γλυκό",
                         "isActive": true,
                         "price": 3.50,
-                        "description": "Tangy lemon dessert square."
+                        "description-en": "Tangy lemon dessert square.",
+                        "description-el": "Ξινόγλυκο επιδόρπιο με λεμόνι."
                     },
                     {
                         "id": 715,
-                        "name": "Chocolate Fondant",
+                        "name-en": "Chocolate Fondant",
+                        "name-el": "Σοκολατένιο Φονντάν",
                         "isActive": true,
                         "price": 6.50,
-                        "description": "Warm chocolate cake with liquid center."
+                        "description-en": "Warm chocolate cake with liquid center.",
+                        "description-el": "Ζεστή σοκολατένια τούρτα με υγρό κέντρο."
                     }
                 ]
             },
             {
-                "name": "Combos",
+                "id": 8,
+                "name-en": "Combos",
+                "name-el": "Συνδυασμοί",
                 "display_order": 8,
                 "products": [
                     {
@@ -796,10 +1015,12 @@
                             101,
                             401
                         ],
-                        "name": "Espresso + Croissant",
+                        "name-en": "Espresso + Croissant",
+                        "name-el": "Εσπρέσο + Κρουασάν",
                         "isActive": true,
                         "price": 5.20,
-                        "description": "Espresso plus buttery croissant."
+                        "description-en": "Espresso plus buttery croissant.",
+                        "description-el": "Εσπρέσο με βουτυρένιο κρουασάν."
                     },
                     {
                         "id": 802,
@@ -807,10 +1028,12 @@
                             103,
                             405
                         ],
-                        "name": "Latte + Muffin",
+                        "name-en": "Latte + Muffin",
+                        "name-el": "Λάτε + Μάφιν",
                         "isActive": true,
                         "price": 7.00,
-                        "description": "Latte with a freshly baked muffin."
+                        "description-en": "Latte with a freshly baked muffin.",
+                        "description-el": "Λάτε με φρεσκοψημένο μάφιν."
                     },
                     {
                         "id": 803,
@@ -818,10 +1041,12 @@
                             102,
                             402
                         ],
-                        "name": "Cappuccino + Chocolate Croissant",
+                        "name-en": "Cappuccino + Chocolate Croissant",
+                        "name-el": "Καπουτσίνο + Κρουασάν Σοκολάτας",
                         "isActive": true,
                         "price": 7.50,
-                        "description": "Cappuccino with chocolate croissant."
+                        "description-en": "Cappuccino with chocolate croissant.",
+                        "description-el": "Καπουτσίνο με κρουασάν σοκολάτας."
                     },
                     {
                         "id": 804,
@@ -829,10 +1054,12 @@
                             104,
                             406
                         ],
-                        "name": "Americano + Scone",
+                        "name-en": "Americano + Scone",
+                        "name-el": "Αμερικάνο + Σκον",
                         "isActive": true,
                         "price": 5.50,
-                        "description": "Americano with British-style scone."
+                        "description-en": "Americano with British-style scone.",
+                        "description-el": "Αμερικάνο με σκον αγγλικού στυλ."
                     },
                     {
                         "id": 805,
@@ -840,10 +1067,12 @@
                             107,
                             410
                         ],
-                        "name": "Flat White + Brownie",
+                        "name-en": "Flat White + Brownie",
+                        "name-el": "Φλατ Γουάιτ + Μπράουνι",
                         "isActive": true,
                         "price": 7.50,
-                        "description": "Flat white with rich chocolate brownie."
+                        "description-en": "Flat white with rich chocolate brownie.",
+                        "description-el": "Φλατ γουάιτ με πλούσιο μπράουνι."
                     },
                     {
                         "id": 806,
@@ -851,10 +1080,12 @@
                             108,
                             411
                         ],
-                        "name": "Cold Brew + Cookie",
+                        "name-en": "Cold Brew + Cookie",
+                        "name-el": "Κρύος Καφές + Μπισκότο",
                         "isActive": true,
                         "price": 5.25,
-                        "description": "Cold brew coffee with fresh cookie."
+                        "description-en": "Cold brew coffee with fresh cookie.",
+                        "description-el": "Κρύος καφές με φρεσκοψημένο μπισκότο."
                     },
                     {
                         "id": 807,
@@ -862,10 +1093,12 @@
                             201,
                             401
                         ],
-                        "name": "English Breakfast Tea + Croissant",
+                        "name-en": "English Breakfast Tea + Croissant",
+                        "name-el": "Αγγλικό Τσάι + Κρουασάν",
                         "isActive": true,
                         "price": 5.00,
-                        "description": "Classic tea with French pastry."
+                        "description-en": "Classic tea with French pastry.",
+                        "description-el": "Κλασικό τσάι με γαλλικό γλυκό."
                     },
                     {
                         "id": 808,
@@ -873,10 +1106,12 @@
                             207,
                             412
                         ],
-                        "name": "Matcha Latte + Banana Bread",
+                        "name-en": "Matcha Latte + Banana Bread",
+                        "name-el": "Matcha Latte + Ψωμί Μπανάνας",
                         "isActive": true,
                         "price": 8.00,
-                        "description": "Matcha with moist banana loaf."
+                        "description-en": "Matcha with moist banana loaf.",
+                        "description-el": "Matcha με υγρό ψωμί μπανάνας."
                     },
                     {
                         "id": 809,
@@ -884,10 +1119,12 @@
                             301,
                             501
                         ],
-                        "name": "Iced Latte + Avocado Toast",
+                        "name-en": "Iced Latte + Avocado Toast",
+                        "name-el": "Παγωμένο Λάτε + Τοστ Αβοκάντο",
                         "isActive": true,
                         "price": 11.50,
-                        "description": "Iced latte with avocado toast."
+                        "description-en": "Iced latte with avocado toast.",
+                        "description-el": "Παγωμένο λάτε με τοστ αβοκάντο."
                     },
                     {
                         "id": 810,
@@ -895,10 +1132,12 @@
                             302,
                             502
                         ],
-                        "name": "Iced Mocha + Breakfast Sandwich",
+                        "name-en": "Iced Mocha + Breakfast Sandwich",
+                        "name-el": "Παγωμένο Μόκα + Σάντουιτς Πρωινού",
                         "isActive": true,
                         "price": 12.00,
-                        "description": "Iced mocha with breakfast sandwich."
+                        "description-en": "Iced mocha with breakfast sandwich.",
+                        "description-el": "Παγωμένο μόκα με σάντουιτς πρωινού."
                     },
                     {
                         "id": 811,
@@ -906,10 +1145,12 @@
                             303,
                             503
                         ],
-                        "name": "Frappuccino + Oatmeal",
+                        "name-en": "Frappuccino + Oatmeal",
+                        "name-el": "Frappuccino + Βρώμη",
                         "isActive": true,
                         "price": 10.50,
-                        "description": "Blended drink with steel-cut oats."
+                        "description-en": "Blended drink with steel-cut oats.",
+                        "description-el": "Ποτό με μίξερ και βρώμη."
                     },
                     {
                         "id": 812,
@@ -917,10 +1158,12 @@
                             601,
                             609
                         ],
-                        "name": "Grilled Cheese + Tomato Soup",
+                        "name-en": "Grilled Cheese + Tomato Soup",
+                        "name-el": "Τηγανητή Τοστ + Σούπα Ντομάτας",
                         "isActive": true,
                         "price": 11.00,
-                        "description": "Classic comfort food combo."
+                        "description-en": "Classic comfort food combo.",
+                        "description-el": "Κλασικός συνδυασμός άνεσης."
                     },
                     {
                         "id": 813,
@@ -928,10 +1171,12 @@
                             605,
                             109
                         ],
-                        "name": "Caesar Salad + Iced Coffee",
+                        "name-en": "Caesar Salad + Iced Coffee",
+                        "name-el": "Σαλάτα Καίσαρα + Παγωμένος Καφές",
                         "isActive": true,
                         "price": 11.50,
-                        "description": "Salad with chilled coffee."
+                        "description-en": "Salad with chilled coffee.",
+                        "description-el": "Σαλάτα με παγωμένο καφέ."
                     },
                     {
                         "id": 814,
@@ -939,10 +1184,12 @@
                             701,
                             103
                         ],
-                        "name": "Cheesecake + Latte",
+                        "name-en": "Cheesecake + Latte",
+                        "name-el": "Τσίζκέικ + Λάτε",
                         "isActive": true,
                         "price": 9.50,
-                        "description": "Dessert with coffee."
+                        "description-en": "Dessert with coffee.",
+                        "description-el": "Επιδόρπιο με καφέ."
                     },
                     {
                         "id": 815,
@@ -950,10 +1197,12 @@
                             702,
                             102
                         ],
-                        "name": "Tiramisu + Cappuccino",
+                        "name-en": "Tiramisu + Cappuccino",
+                        "name-el": "Τιραμισού + Καπουτσίνο",
                         "isActive": true,
                         "price": 9.50,
-                        "description": "Italian dessert with Italian coffee."
+                        "description-en": "Italian dessert with Italian coffee.",
+                        "description-el": "Ιταλικό επιδόρπιο με ιταλικό καφέ."
                     }
                 ]
             }
