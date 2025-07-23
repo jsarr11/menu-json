@@ -1,0 +1,962 @@
+{
+    "success": true,
+    "data": {
+        "categories": [
+            {
+                "id": 1,
+                "name": "Coffee",
+                "display_order": 1,
+                "products": [
+                    {
+                        "id": 101,
+                        "name": "Espresso",
+                        "isActive": true,
+                        "price": 2.00,
+                        "description": "Strong and bold single shot."
+                    },
+                    {
+                        "id": 102,
+                        "name": "Cappuccino",
+                        "isActive": true,
+                        "price": 3.50,
+                        "description": "Espresso with steamed milk and foam."
+                    },
+                    {
+                        "id": 103,
+                        "name": "Latte",
+                        "isActive": true,
+                        "price": 4.00,
+                        "description": "Espresso with lots of steamed milk."
+                    },
+                    {
+                        "id": 104,
+                        "name": "Americano",
+                        "isActive": true,
+                        "price": 2.50,
+                        "description": "Espresso with hot water."
+                    },
+                    {
+                        "id": 105,
+                        "name": "Mocha",
+                        "isActive": true,
+                        "price": 4.50,
+                        "description": "Espresso with chocolate and steamed milk."
+                    },
+                    {
+                        "id": 106,
+                        "name": "Macchiato",
+                        "isActive": true,
+                        "price": 3.00,
+                        "description": "Espresso with a dash of steamed milk."
+                    },
+                    {
+                        "id": 107,
+                        "name": "Flat White",
+                        "isActive": true,
+                        "price": 4.00,
+                        "description": "Double espresso with microfoam."
+                    },
+                    {
+                        "id": 108,
+                        "name": "Cold Brew",
+                        "isActive": true,
+                        "price": 3.75,
+                        "description": "Slow-steeped cold coffee."
+                    },
+                    {
+                        "id": 109,
+                        "name": "Iced Coffee",
+                        "isActive": true,
+                        "price": 3.50,
+                        "description": "Chilled coffee served over ice."
+                    },
+                    {
+                        "id": 110,
+                        "name": "Affogato",
+                        "isActive": true,
+                        "price": 4.50,
+                        "description": "Espresso poured over vanilla ice cream."
+                    },
+                    {
+                        "id": 111,
+                        "name": "Turkish Coffee",
+                        "isActive": true,
+                        "price": 3.25,
+                        "description": "Traditional unfiltered coffee."
+                    },
+                    {
+                        "id": 112,
+                        "name": "Irish Coffee",
+                        "isActive": true,
+                        "price": 6.00,
+                        "description": "Coffee with Irish whiskey and cream."
+                    },
+                    {
+                        "id": 113,
+                        "name": "Vietnamese Iced Coffee",
+                        "isActive": true,
+                        "price": 4.25,
+                        "description": "Strong coffee with sweetened condensed milk."
+                    },
+                    {
+                        "id": 114,
+                        "name": "Cortado",
+                        "isActive": true,
+                        "price": 3.50,
+                        "description": "Espresso cut with warm milk."
+                    },
+                    {
+                        "id": 115,
+                        "name": "Red Eye",
+                        "isActive": true,
+                        "price": 3.00,
+                        "description": "Drip coffee with a shot of espresso."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Tea",
+                "display_order": 2,
+                "products": [
+                    {
+                        "id": 201,
+                        "name": "English Breakfast",
+                        "isActive": true,
+                        "price": 2.50,
+                        "description": "Classic black tea blend."
+                    },
+                    {
+                        "id": 202,
+                        "name": "Earl Grey",
+                        "isActive": true,
+                        "price": 2.50,
+                        "description": "Black tea with bergamot."
+                    },
+                    {
+                        "id": 203,
+                        "name": "Chamomile",
+                        "isActive": true,
+                        "price": 2.50,
+                        "description": "Herbal tea for relaxation."
+                    },
+                    {
+                        "id": 204,
+                        "name": "Peppermint",
+                        "isActive": true,
+                        "price": 2.50,
+                        "description": "Refreshing herbal tea."
+                    },
+                    {
+                        "id": 205,
+                        "name": "Green Tea",
+                        "isActive": true,
+                        "price": 2.75,
+                        "description": "Light and antioxidant-rich."
+                    },
+                    {
+                        "id": 206,
+                        "name": "Jasmine Tea",
+                        "isActive": true,
+                        "price": 3.00,
+                        "description": "Green tea scented with jasmine flowers."
+                    },
+                    {
+                        "id": 207,
+                        "name": "Matcha Latte",
+                        "isActive": true,
+                        "price": 4.50,
+                        "description": "Japanese green tea powder with milk."
+                    },
+                    {
+                        "id": 208,
+                        "name": "Chai Latte",
+                        "isActive": true,
+                        "price": 4.00,
+                        "description": "Spiced tea with steamed milk."
+                    },
+                    {
+                        "id": 209,
+                        "name": "Oolong Tea",
+                        "isActive": true,
+                        "price": 3.25,
+                        "description": "Traditional Chinese semi-oxidized tea."
+                    },
+                    {
+                        "id": 210,
+                        "name": "White Tea",
+                        "isActive": true,
+                        "price": 3.50,
+                        "description": "Delicate and minimally processed."
+                    },
+                    {
+                        "id": 211,
+                        "name": "Hibiscus Tea",
+                        "isActive": true,
+                        "price": 2.75,
+                        "description": "Tart and caffeine-free herbal tea."
+                    },
+                    {
+                        "id": 212,
+                        "name": "Rooibos Tea",
+                        "isActive": true,
+                        "price": 2.75,
+                        "description": "South African red bush tea."
+                    },
+                    {
+                        "id": 213,
+                        "name": "Yerba Mate",
+                        "isActive": true,
+                        "price": 3.50,
+                        "description": "South American energizing herbal tea."
+                    },
+                    {
+                        "id": 214,
+                        "name": "Bubble Tea",
+                        "isActive": true,
+                        "price": 5.00,
+                        "description": "Tea with milk and chewy tapioca pearls."
+                    },
+                    {
+                        "id": 215,
+                        "name": "Iced Tea",
+                        "isActive": true,
+                        "price": 3.00,
+                        "description": "Chilled tea served over ice."
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": "Cold Drinks",
+                "display_order": 3,
+                "products": [
+                    {
+                        "id": 301,
+                        "name": "Iced Latte",
+                        "isActive": true,
+                        "price": 4.50,
+                        "description": "Espresso with cold milk over ice."
+                    },
+                    {
+                        "id": 302,
+                        "name": "Iced Mocha",
+                        "isActive": true,
+                        "price": 5.00,
+                        "description": "Chocolate, espresso and milk over ice."
+                    },
+                    {
+                        "id": 303,
+                        "name": "Frappuccino",
+                        "isActive": true,
+                        "price": 5.50,
+                        "description": "Blended iced coffee drink."
+                    },
+                    {
+                        "id": 304,
+                        "name": "Milkshake",
+                        "isActive": true,
+                        "price": 5.00,
+                        "description": "Creamy blended milk drink."
+                    },
+                    {
+                        "id": 305,
+                        "name": "Smoothie",
+                        "isActive": true,
+                        "price": 5.50,
+                        "description": "Blended fruit drink."
+                    },
+                    {
+                        "id": 306,
+                        "name": "Lemonade",
+                        "isActive": true,
+                        "price": 3.50,
+                        "description": "Refreshing lemon drink."
+                    },
+                    {
+                        "id": 307,
+                        "name": "Iced Matcha",
+                        "isActive": true,
+                        "price": 4.75,
+                        "description": "Chilled matcha green tea."
+                    },
+                    {
+                        "id": 308,
+                        "name": "Iced Chai",
+                        "isActive": true,
+                        "price": 4.50,
+                        "description": "Spiced tea latte served cold."
+                    },
+                    {
+                        "id": 309,
+                        "name": "Sparkling Water",
+                        "isActive": true,
+                        "price": 2.50,
+                        "description": "Carbonated mineral water."
+                    },
+                    {
+                        "id": 310,
+                        "name": "Soda",
+                        "isActive": true,
+                        "price": 2.75,
+                        "description": "Various carbonated soft drinks."
+                    },
+                    {
+                        "id": 311,
+                        "name": "Iced Tea Lemonade",
+                        "isActive": true,
+                        "price": 4.00,
+                        "description": "Half iced tea, half lemonade."
+                    },
+                    {
+                        "id": 312,
+                        "name": "Cold Brew Tonic",
+                        "isActive": true,
+                        "price": 4.50,
+                        "description": "Cold brew coffee with tonic water."
+                    },
+                    {
+                        "id": 313,
+                        "name": "Italian Soda",
+                        "isActive": true,
+                        "price": 3.75,
+                        "description": "Sparkling water with flavored syrup."
+                    },
+                    {
+                        "id": 314,
+                        "name": "Juice",
+                        "isActive": true,
+                        "price": 3.50,
+                        "description": "Freshly squeezed fruit juice."
+                    },
+                    {
+                        "id": 315,
+                        "name": "Energy Drink",
+                        "isActive": true,
+                        "price": 4.00,
+                        "description": "Carbonated energy beverage."
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "name": "Bakery",
+                "display_order": 4,
+                "products": [
+                    {
+                        "id": 401,
+                        "name": "Croissant",
+                        "isActive": true,
+                        "price": 2.50,
+                        "description": "Classic French pastry."
+                    },
+                    {
+                        "id": 402,
+                        "name": "Chocolate Croissant",
+                        "isActive": true,
+                        "price": 3.00,
+                        "description": "Buttery croissant with chocolate filling."
+                    },
+                    {
+                        "id": 403,
+                        "name": "Almond Croissant",
+                        "isActive": true,
+                        "price": 3.50,
+                        "description": "Croissant with almond cream filling."
+                    },
+                    {
+                        "id": 404,
+                        "name": "Danish",
+                        "isActive": true,
+                        "price": 3.25,
+                        "description": "Flaky pastry with fruit or cheese filling."
+                    },
+                    {
+                        "id": 405,
+                        "name": "Muffin",
+                        "isActive": true,
+                        "price": 2.75,
+                        "description": "Freshly baked muffin."
+                    },
+                    {
+                        "id": 406,
+                        "name": "Scone",
+                        "isActive": true,
+                        "price": 2.50,
+                        "description": "British-style baked good."
+                    },
+                    {
+                        "id": 407,
+                        "name": "Bagel",
+                        "isActive": true,
+                        "price": 2.25,
+                        "description": "New York-style bagel."
+                    },
+                    {
+                        "id": 408,
+                        "name": "Cinnamon Roll",
+                        "isActive": true,
+                        "price": 3.50,
+                        "description": "Sweet rolled pastry with cinnamon."
+                    },
+                    {
+                        "id": 409,
+                        "name": "Donut",
+                        "isActive": true,
+                        "price": 2.50,
+                        "description": "Classic ring donut."
+                    },
+                    {
+                        "id": 410,
+                        "name": "Brownie",
+                        "isActive": true,
+                        "price": 3.00,
+                        "description": "Rich chocolate square."
+                    },
+                    {
+                        "id": 411,
+                        "name": "Cookie",
+                        "isActive": true,
+                        "price": 1.75,
+                        "description": "Freshly baked cookie."
+                    },
+                    {
+                        "id": 412,
+                        "name": "Banana Bread",
+                        "isActive": true,
+                        "price": 3.25,
+                        "description": "Moist banana loaf."
+                    },
+                    {
+                        "id": 413,
+                        "name": "Pound Cake",
+                        "isActive": true,
+                        "price": 3.50,
+                        "description": "Dense buttery cake."
+                    },
+                    {
+                        "id": 414,
+                        "name": "Tart",
+                        "isActive": true,
+                        "price": 4.00,
+                        "description": "French-style fruit tart."
+                    },
+                    {
+                        "id": 415,
+                        "name": "Biscotti",
+                        "isActive": true,
+                        "price": 2.00,
+                        "description": "Italian almond biscuit."
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "name": "Breakfast",
+                "display_order": 5,
+                "products": [
+                    {
+                        "id": 501,
+                        "name": "Avocado Toast",
+                        "isActive": true,
+                        "price": 7.50,
+                        "description": "Sourdough with smashed avocado."
+                    },
+                    {
+                        "id": 502,
+                        "name": "Breakfast Sandwich",
+                        "isActive": true,
+                        "price": 6.50,
+                        "description": "Egg, cheese and bacon on a croissant."
+                    },
+                    {
+                        "id": 503,
+                        "name": "Oatmeal",
+                        "isActive": true,
+                        "price": 5.00,
+                        "description": "Steel-cut oats with toppings."
+                    },
+                    {
+                        "id": 504,
+                        "name": "Yogurt Parfait",
+                        "isActive": true,
+                        "price": 5.50,
+                        "description": "Greek yogurt with granola and fruit."
+                    },
+                    {
+                        "id": 505,
+                        "name": "Breakfast Burrito",
+                        "isActive": true,
+                        "price": 8.00,
+                        "description": "Scrambled eggs, beans and cheese in tortilla."
+                    },
+                    {
+                        "id": 506,
+                        "name": "Pancakes",
+                        "isActive": true,
+                        "price": 7.00,
+                        "description": "Stack of fluffy pancakes."
+                    },
+                    {
+                        "id": 507,
+                        "name": "Waffles",
+                        "isActive": true,
+                        "price": 7.50,
+                        "description": "Crispy Belgian waffle."
+                    },
+                    {
+                        "id": 508,
+                        "name": "French Toast",
+                        "isActive": true,
+                        "price": 7.50,
+                        "description": "Brioche dipped in egg batter."
+                    },
+                    {
+                        "id": 509,
+                        "name": "Eggs Benedict",
+                        "isActive": true,
+                        "price": 9.50,
+                        "description": "Poached eggs on English muffin with hollandaise."
+                    },
+                    {
+                        "id": 510,
+                        "name": "Breakfast Bowl",
+                        "isActive": true,
+                        "price": 8.50,
+                        "description": "Quinoa, greens, eggs and avocado."
+                    },
+                    {
+                        "id": 511,
+                        "name": "Bagel Sandwich",
+                        "isActive": true,
+                        "price": 6.00,
+                        "description": "Cream cheese, tomato and cucumber on bagel."
+                    },
+                    {
+                        "id": 512,
+                        "name": "Shakshuka",
+                        "isActive": true,
+                        "price": 9.00,
+                        "description": "Eggs poached in tomato sauce."
+                    },
+                    {
+                        "id": 513,
+                        "name": "Chia Pudding",
+                        "isActive": true,
+                        "price": 5.50,
+                        "description": "Chia seeds soaked in almond milk."
+                    },
+                    {
+                        "id": 514,
+                        "name": "Breakfast Quesadilla",
+                        "isActive": true,
+                        "price": 7.50,
+                        "description": "Scrambled eggs and cheese in tortilla."
+                    },
+                    {
+                        "id": 515,
+                        "name": "Granola",
+                        "isActive": true,
+                        "price": 4.50,
+                        "description": "House-made granola with milk."
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "name": "Lunch",
+                "display_order": 6,
+                "products": [
+                    {
+                        "id": 601,
+                        "name": "Grilled Cheese",
+                        "isActive": true,
+                        "price": 6.50,
+                        "description": "Classic melted cheese sandwich."
+                    },
+                    {
+                        "id": 602,
+                        "name": "BLT Sandwich",
+                        "isActive": true,
+                        "price": 7.50,
+                        "description": "Bacon, lettuce and tomato on toast."
+                    },
+                    {
+                        "id": 603,
+                        "name": "Chicken Panini",
+                        "isActive": true,
+                        "price": 8.50,
+                        "description": "Pressed chicken and pesto sandwich."
+                    },
+                    {
+                        "id": 604,
+                        "name": "Quiche",
+                        "isActive": true,
+                        "price": 7.00,
+                        "description": "Savory egg and cheese pie."
+                    },
+                    {
+                        "id": 605,
+                        "name": "Caesar Salad",
+                        "isActive": true,
+                        "price": 8.50,
+                        "description": "Romaine, croutons and parmesan."
+                    },
+                    {
+                        "id": 606,
+                        "name": "Cobb Salad",
+                        "isActive": true,
+                        "price": 9.50,
+                        "description": "Greens with chicken, bacon and eggs."
+                    },
+                    {
+                        "id": 607,
+                        "name": "Veggie Wrap",
+                        "isActive": true,
+                        "price": 7.50,
+                        "description": "Grilled vegetables in tortilla."
+                    },
+                    {
+                        "id": 608,
+                        "name": "Tuna Melt",
+                        "isActive": true,
+                        "price": 8.00,
+                        "description": "Tuna salad with melted cheese."
+                    },
+                    {
+                        "id": 609,
+                        "name": "Tomato Soup",
+                        "isActive": true,
+                        "price": 5.50,
+                        "description": "Creamy tomato soup."
+                    },
+                    {
+                        "id": 610,
+                        "name": "Chicken Salad",
+                        "isActive": true,
+                        "price": 8.50,
+                        "description": "Chicken with greens and dressing."
+                    },
+                    {
+                        "id": 611,
+                        "name": "Turkey Club",
+                        "isActive": true,
+                        "price": 8.50,
+                        "description": "Triple-decker turkey sandwich."
+                    },
+                    {
+                        "id": 612,
+                        "name": "Greek Salad",
+                        "isActive": true,
+                        "price": 8.00,
+                        "description": "Cucumber, tomato, olives and feta."
+                    },
+                    {
+                        "id": 613,
+                        "name": "Avocado Salad",
+                        "isActive": true,
+                        "price": 8.50,
+                        "description": "Mixed greens with avocado and nuts."
+                    },
+                    {
+                        "id": 614,
+                        "name": "Caprese Sandwich",
+                        "isActive": true,
+                        "price": 7.50,
+                        "description": "Mozzarella, tomato and basil on ciabatta."
+                    },
+                    {
+                        "id": 615,
+                        "name": "Chicken Wrap",
+                        "isActive": true,
+                        "price": 8.50,
+                        "description": "Grilled chicken in tortilla with veggies."
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "name": "Desserts",
+                "display_order": 7,
+                "products": [
+                    {
+                        "id": 701,
+                        "name": "Cheesecake",
+                        "isActive": true,
+                        "price": 5.50,
+                        "description": "Classic New York cheesecake."
+                    },
+                    {
+                        "id": 702,
+                        "name": "Tiramisu",
+                        "isActive": true,
+                        "price": 6.00,
+                        "description": "Italian coffee-flavored dessert."
+                    },
+                    {
+                        "id": 703,
+                        "name": "Chocolate Cake",
+                        "isActive": true,
+                        "price": 5.50,
+                        "description": "Rich chocolate layer cake."
+                    },
+                    {
+                        "id": 704,
+                        "name": "Carrot Cake",
+                        "isActive": true,
+                        "price": 5.50,
+                        "description": "Spiced cake with cream cheese frosting."
+                    },
+                    {
+                        "id": 705,
+                        "name": "Creme Brulee",
+                        "isActive": true,
+                        "price": 6.50,
+                        "description": "Vanilla custard with caramelized sugar."
+                    },
+                    {
+                        "id": 706,
+                        "name": "Apple Pie",
+                        "isActive": true,
+                        "price": 5.00,
+                        "description": "Classic American pie."
+                    },
+                    {
+                        "id": 707,
+                        "name": "Ice Cream",
+                        "isActive": true,
+                        "price": 4.50,
+                        "description": "Scoop of premium ice cream."
+                    },
+                    {
+                        "id": 708,
+                        "name": "Chocolate Mousse",
+                        "isActive": true,
+                        "price": 5.50,
+                        "description": "Light and airy chocolate dessert."
+                    },
+                    {
+                        "id": 709,
+                        "name": "Panna Cotta",
+                        "isActive": true,
+                        "price": 6.00,
+                        "description": "Italian cooked cream dessert."
+                    },
+                    {
+                        "id": 710,
+                        "name": "Macarons",
+                        "isActive": true,
+                        "price": 2.50,
+                        "description": "French almond meringue cookies."
+                    },
+                    {
+                        "id": 711,
+                        "name": "Eclair",
+                        "isActive": true,
+                        "price": 4.50,
+                        "description": "Cream-filled choux pastry."
+                    },
+                    {
+                        "id": 712,
+                        "name": "Cannoli",
+                        "isActive": true,
+                        "price": 4.00,
+                        "description": "Italian pastry with sweet ricotta."
+                    },
+                    {
+                        "id": 713,
+                        "name": "Fruit Tart",
+                        "isActive": true,
+                        "price": 5.50,
+                        "description": "Pastry with custard and fresh fruit."
+                    },
+                    {
+                        "id": 714,
+                        "name": "Lemon Bar",
+                        "isActive": true,
+                        "price": 3.50,
+                        "description": "Tangy lemon dessert square."
+                    },
+                    {
+                        "id": 715,
+                        "name": "Chocolate Fondant",
+                        "isActive": true,
+                        "price": 6.50,
+                        "description": "Warm chocolate cake with liquid center."
+                    }
+                ]
+            },
+            {
+                "name": "Combos",
+                "display_order": 8,
+                "products": [
+                    {
+                        "id": 801,
+                        "components": [
+                            101,
+                            401
+                        ],
+                        "name": "Espresso + Croissant",
+                        "isActive": true,
+                        "price": 5.20,
+                        "description": "Espresso plus buttery croissant."
+                    },
+                    {
+                        "id": 802,
+                        "components": [
+                            103,
+                            405
+                        ],
+                        "name": "Latte + Muffin",
+                        "isActive": true,
+                        "price": 7.00,
+                        "description": "Latte with a freshly baked muffin."
+                    },
+                    {
+                        "id": 803,
+                        "components": [
+                            102,
+                            402
+                        ],
+                        "name": "Cappuccino + Chocolate Croissant",
+                        "isActive": true,
+                        "price": 7.50,
+                        "description": "Cappuccino with chocolate croissant."
+                    },
+                    {
+                        "id": 804,
+                        "components": [
+                            104,
+                            406
+                        ],
+                        "name": "Americano + Scone",
+                        "isActive": true,
+                        "price": 5.50,
+                        "description": "Americano with British-style scone."
+                    },
+                    {
+                        "id": 805,
+                        "components": [
+                            107,
+                            410
+                        ],
+                        "name": "Flat White + Brownie",
+                        "isActive": true,
+                        "price": 7.50,
+                        "description": "Flat white with rich chocolate brownie."
+                    },
+                    {
+                        "id": 806,
+                        "components": [
+                            108,
+                            411
+                        ],
+                        "name": "Cold Brew + Cookie",
+                        "isActive": true,
+                        "price": 5.25,
+                        "description": "Cold brew coffee with fresh cookie."
+                    },
+                    {
+                        "id": 807,
+                        "components": [
+                            201,
+                            401
+                        ],
+                        "name": "English Breakfast Tea + Croissant",
+                        "isActive": true,
+                        "price": 5.00,
+                        "description": "Classic tea with French pastry."
+                    },
+                    {
+                        "id": 808,
+                        "components": [
+                            207,
+                            412
+                        ],
+                        "name": "Matcha Latte + Banana Bread",
+                        "isActive": true,
+                        "price": 8.00,
+                        "description": "Matcha with moist banana loaf."
+                    },
+                    {
+                        "id": 809,
+                        "components": [
+                            301,
+                            501
+                        ],
+                        "name": "Iced Latte + Avocado Toast",
+                        "isActive": true,
+                        "price": 11.50,
+                        "description": "Iced latte with avocado toast."
+                    },
+                    {
+                        "id": 810,
+                        "components": [
+                            302,
+                            502
+                        ],
+                        "name": "Iced Mocha + Breakfast Sandwich",
+                        "isActive": true,
+                        "price": 12.00,
+                        "description": "Iced mocha with breakfast sandwich."
+                    },
+                    {
+                        "id": 811,
+                        "components": [
+                            303,
+                            503
+                        ],
+                        "name": "Frappuccino + Oatmeal",
+                        "isActive": true,
+                        "price": 10.50,
+                        "description": "Blended drink with steel-cut oats."
+                    },
+                    {
+                        "id": 812,
+                        "components": [
+                            601,
+                            609
+                        ],
+                        "name": "Grilled Cheese + Tomato Soup",
+                        "isActive": true,
+                        "price": 11.00,
+                        "description": "Classic comfort food combo."
+                    },
+                    {
+                        "id": 813,
+                        "components": [
+                            605,
+                            109
+                        ],
+                        "name": "Caesar Salad + Iced Coffee",
+                        "isActive": true,
+                        "price": 11.50,
+                        "description": "Salad with chilled coffee."
+                    },
+                    {
+                        "id": 814,
+                        "components": [
+                            701,
+                            103
+                        ],
+                        "name": "Cheesecake + Latte",
+                        "isActive": true,
+                        "price": 9.50,
+                        "description": "Dessert with coffee."
+                    },
+                    {
+                        "id": 815,
+                        "components": [
+                            702,
+                            102
+                        ],
+                        "name": "Tiramisu + Cappuccino",
+                        "isActive": true,
+                        "price": 9.50,
+                        "description": "Italian dessert with Italian coffee."
+                    }
+                ]
+            }
+        ]
+    }
+}
