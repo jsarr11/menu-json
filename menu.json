@@ -955,7 +955,7 @@
             ]
         },
         {
-            "id": 8,
+            "id": 7,
             "name-en": "Desserts",
             "name-el": "Επιδόρπια",
             "display_order": 7,
@@ -1114,7 +1114,7 @@
             ]
         },
         {
-            "id": 7,
+            "id": 8,
             "name-en": "Combos",
             "name-el": "Συνδυασμοί",
             "display_order": 8,
