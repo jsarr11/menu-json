@@ -160,7 +160,7 @@
         },
         {
             "id": 3,
-            "name-en": "A sweet space odysseys",
+            "name-en": "A sweet space odyssey",
             "name-el": "A sweet space odyssey",
             "display_order": 3,
             "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -591,8 +591,8 @@
         },
         {
             "id": 12,
-            "name-en": "Pizzas",
-            "name-el": "Pizzas",
+            "name-en": "Club Sandwich",
+            "name-el": "Club Sandwich",
             "display_order": 12,
             "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
             "products": [
