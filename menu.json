@@ -160,160 +160,80 @@
         },
         {
             "id": 3,
-            "name-en": "Cold Drinks",
-            "name-el": "Κρύα Ποτά",
+            "name-en": "A sweet space odysseys",
+            "name-el": "A sweet space odyssey",
             "display_order": 3,
-            "image": "https://images.unsplash.com/photo-1551029506-0807df4e2031?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80",
+            "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
             "products": [
                 {
-                    "id": 301,
-                    "name-en": "Iced Latte",
-                    "name-el": "Παγωμένο Λάτε",
+                    "id": 3001,
+                    "name-en": "Cube Bricks Tripple Choc",
+                    "name-el": "Cube Bricks Tripple Choc",
                     "isActive": true,
-                    "price": 4.50,
-                    "description-en": "Espresso with cold milk over ice.",
-                    "description-el": "Εσπρέσο με κρύο γάλα και πάγο.",
-                    "image": "https://images.unsplash.com/photo-1572442388796-11668a67e53d?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "Brioche αυγοφετα, Ζάχαρη, Κανέλα, Τριλογία Σοκολάτας",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
                 {
-                    "id": 302,
-                    "name-en": "Iced Mocha",
-                    "name-el": "Παγωμένο Μόκα",
+                    "id": 3002,
+                    "name-en": "Brownies",
+                    "name-el": "Brownies",
                     "isActive": true,
-                    "price": 5.00,
-                    "description-en": "Chocolate, espresso and milk over ice.",
-                    "description-el": "Σοκολάτα, εσπρέσο και γάλα με πάγο.",
-                    "image": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "Butter scotch, καραμελωμένο φουντούκι, παγωτό βανίλια Μαγαδασκάρης",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
                 {
-                    "id": 303,
-                    "name-en": "Frappuccino",
-                    "name-el": "Frappuccino",
+                    "id": 3003,
+                    "name-en": "Cheesecake ",
+                    "name-el": "Cheesecake ",
                     "isActive": true,
-                    "price": 5.50,
-                    "description-en": "Blended iced coffee drink.",
-                    "description-el": "Παγωμένος καφές με μίξερ.",
-                    "image": "https://images.unsplash.com/photo-1517705008128-361805f42e86?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "Σοκολάτα, κόκκινα φρούτα",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
                 {
-                    "id": 304,
-                    "name-en": "Milkshake",
-                    "name-el": "Μιλκσέικ",
+                    "id": 3004,
+                    "name-en": "",
+                    "name-el": "Cake σοκολάτας",
                     "isActive": true,
-                    "price": 5.00,
-                    "description-en": "Creamy blended milk drink.",
-                    "description-el": "Κρεμώδες ποτό με γάλα και παγωτό.",
-                    "image": "https://images.pexels.com/photos/103566/pexels-photo-103566.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "Μασκαρπόνε, Καφές, Καρύδι",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
                 {
-                    "id": 305,
-                    "name-en": "Smoothie",
-                    "name-el": "Smoothie",
+                    "id": 3005,
+                    "name-en": "Cake Γιαουρτιού",
+                    "name-el": "Cake Γιαουρτιού",
                     "isActive": true,
-                    "price": 5.50,
-                    "description-en": "Blended fruit drink.",
-                    "description-el": "Ποτό με φρέσκα φρούτα και παγωτό.",
-                    "image": "https://images.unsplash.com/photo-1505576399279-565b52d4ac71?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "Πράσινο μήλο, κάρδαμο",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
                 {
-                    "id": 306,
-                    "name-en": "Lemonade",
-                    "name-el": "Λεμονάδα",
+                    "id": 3006,
+                    "name-en": "Cake Κολοκύθας",
+                    "name-el": "Cake Κολοκύθας",
                     "isActive": true,
-                    "price": 3.50,
-                    "description-en": "Refreshing lemon drink.",
-                    "description-el": "Δροσιστική λεμονάδα.",
-                    "image": "https://images.pexels.com/photos/6605213/pexels-photo-6605213.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "Σταφίδα, Τζίντζερ, Candied Nuts",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
                 {
-                    "id": 307,
-                    "name-en": "Iced Matcha",
-                    "name-el": "Παγωμένο Matcha",
+                    "id": 3007,
+                    "name-en": "Croissant",
+                    "name-el": "Croissant",
                     "isActive": true,
-                    "price": 4.75,
-                    "description-en": "Chilled matcha green tea.",
-                    "description-el": "Κρύο πράσινο τσάι matcha.",
-                    "image": "https://images.unsplash.com/photo-1529563021893-cc83c992d75d?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
-                },
-                {
-                    "id": 308,
-                    "name-en": "Iced Chai",
-                    "name-el": "Παγωμένο Chai",
-                    "isActive": true,
-                    "price": 4.50,
-                    "description-en": "Spiced tea latte served cold.",
-                    "description-el": "Κρύο τσάι latte με μπαχαρικά.",
-                    "image": "https://images.pexels.com/photos/5946779/pexels-photo-5946779.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                },
-                {
-                    "id": 309,
-                    "name-en": "Sparkling Water",
-                    "name-el": "Αεριούχο Νερό",
-                    "isActive": true,
-                    "price": 2.50,
-                    "description-en": "Carbonated mineral water.",
-                    "description-el": "Αναψυκτικό με ανθρακικό νερό.",
-                    "image": "https://images.unsplash.com/photo-1551029506-0807df4e2031?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
-                },
-                {
-                    "id": 310,
-                    "name-en": "Soda",
-                    "name-el": "Σόδα",
-                    "isActive": true,
-                    "price": 2.75,
-                    "description-en": "Various carbonated soft drinks.",
-                    "description-el": "Διάφορα αναψυκτικά με ανθρακικό.",
-                    "image": "https://images.pexels.com/photos/50593/coca-cola-cold-drink-soft-drink-coke-50593.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                },
-                {
-                    "id": 311,
-                    "name-en": "Iced Tea Lemonade",
-                    "name-el": "Παγωμένο Τσάι με Λεμονάδα",
-                    "isActive": true,
-                    "price": 4.00,
-                    "description-en": "Half iced tea, half lemonade.",
-                    "description-el": "Μίξη παγωμένου τσαγιού και λεμονάδας.",
-                    "image": "https://images.unsplash.com/photo-1445116572660-236099ec97a0?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
-                },
-                {
-                    "id": 312,
-                    "name-en": "Cold Brew Tonic",
-                    "name-el": "Cold Brew Tonic",
-                    "isActive": true,
-                    "price": 4.50,
-                    "description-en": "Cold brew coffee with tonic water.",
-                    "description-el": "Κρύος καφές με τόνικ.",
-                    "image": "https://images.pexels.com/photos/302094/pexels-photo-302094.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                },
-                {
-                    "id": 313,
-                    "name-en": "Italian Soda",
-                    "name-el": "Ιταλική Σόδα",
-                    "isActive": true,
-                    "price": 3.75,
-                    "description-en": "Sparkling water with flavored syrup.",
-                    "description-el": "Αεριούχο νερό με γλυκάνισο.",
-                    "image": "https://images.unsplash.com/photo-1551029506-0807df4e2031?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
-                },
-                {
-                    "id": 314,
-                    "name-en": "Juice",
-                    "name-el": "Χυμός",
-                    "isActive": true,
-                    "price": 3.50,
-                    "description-en": "Freshly squeezed fruit juice.",
-                    "description-el": "Φυσικός χυμός φρούτων.",
-                    "image": "https://images.pexels.com/photos/6605213/pexels-photo-6605213.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                },
-                {
-                    "id": 315,
-                    "name-en": "Energy Drink",
-                    "name-el": "Energy Drink",
-                    "isActive": true,
-                    "price": 4.00,
-                    "description-en": "Carbonated energy beverage.",
-                    "description-el": "Αναψυκτικό με ενεργειακή δράση.",
-                    "image": "https://images.unsplash.com/photo-1517705008128-361805f42e86?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 }
             ]
         },
