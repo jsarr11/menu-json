@@ -239,856 +239,698 @@
         },
         {
             "id": 4,
-            "name-en": "Brunch",
-            "name-el": "Brunch",
+            "name-en": "Pancakes",
+            "name-el": "Pancakes",
             "display_order": 4,
-            "image": "https://images.pexels.com/photos/461060/pexels-photo-461060.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
             "products": [
                 {
-                    "id": 401,
-                    "name-en": "Scrambled Eggs",
-                    "name-el": "Scrambled Eggs",
+                    "id": 4001,
+                    "name-en": "Salty Bacon",
+                    "name-el": "Salty Bacon",
                     "isActive": true,
-                    "price": 2.50,
-                    "description-en": "Κρουασάν, Παρμεζάνα, Γαλοπούλα, Ρόκα, Truffle Mayo.",
-                    "description-el": "Κρουασάν, Παρμεζάνα, Γαλοπούλα, Ρόκα, Truffle Mayo.",
-                    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "Cheddar, bacon, white sauce, αυγό τηγανητό",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
                 {
-                    "id": 402,
-                    "name-en": "Shashouka από τα Επτάνησα",
-                    "name-el": "Shashouka από τα Επτάνησα",
+                    "id": 4002,
+                    "name-en": "",
+                    "name-el": "Salty Γαλοπούλας",
                     "isActive": true,
-                    "price": 3.00,
-                    "description-en": "Ζακυνθινά αυγά με ντομάτα, Κερκυραικο σπετσέρικο, Σαλαμίνα Λευκάδος, Γραβιέρα, Χωριάτικο ψωμί.",
-                    "description-el": "Ζακυνθινά αυγά με ντομάτα, Κερκυραικο σπετσέρικο, Σαλαμίνα Λευκάδος, Γραβιέρα, Χωριάτικο ψωμί.",
-                    "image": "https://images.pexels.com/photos/461060/pexels-photo-461060.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "Γαλοπούλα, gouda παλαιωμένο, avocado spread, truffle mayo, αυγό τηγανητό",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
                 {
-                    "id": 403,
-                    "name-en": "Almond Croissant",
-                    "name-el": "Κρουασάν με Αμύγδαλα",
+                    "id": 4003,
+                    "name-en": "Apple Pie",
+                    "name-el": "Apple Pie",
                     "isActive": true,
-                    "price": 3.50,
-                    "description-en": "Croissant with almond cream filling.",
-                    "description-el": "Κρουασάν με κρέμα αμυγδάλου.",
-                    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "Κρέμα patisserie, μήλο σε δύο υφές, μπισκότο κανέλας, αμύγδαλο",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
                 {
-                    "id": 404,
-                    "name-en": "Danish",
-                    "name-el": "Ντένις",
+                    "id": 4004,
+                    "name-en": "Oreo",
+                    "name-el": "Oreo",
                     "isActive": true,
-                    "price": 3.25,
-                    "description-en": "Flaky pastry with fruit or cheese filling.",
-                    "description-el": "Φύλλο με γέμιση φρούτων ή τυριού.",
-                    "image": "https://images.pexels.com/photos/461060/pexels-photo-461060.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                },
-                {
-                    "id": 405,
-                    "name-en": "Muffin",
-                    "name-el": "Μάφιν",
-                    "isActive": true,
-                    "price": 2.75,
-                    "description-en": "Freshly baked muffin.",
-                    "description-el": "Φρεσκοψημένο μάφιν.",
-                    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
-                },
-                {
-                    "id": 406,
-                    "name-en": "Scone",
-                    "name-el": "Σκον",
-                    "isActive": true,
-                    "price": 2.50,
-                    "description-en": "British-style baked good.",
-                    "description-el": "Αγγλικής κουζίνας γλυκό.",
-                    "image": "https://images.pexels.com/photos/461060/pexels-photo-461060.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                },
-                {
-                    "id": 407,
-                    "name-en": "Bagel",
-                    "name-el": "Μπέιγκελ",
-                    "isActive": true,
-                    "price": 2.25,
-                    "description-en": "New York-style bagel.",
-                    "description-el": "Μπέιγκελ Νέου Υόρκης.",
-                    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
-                },
-                {
-                    "id": 408,
-                    "name-en": "Cinnamon Roll",
-                    "name-el": "Ρολό με Κανέλα",
-                    "isActive": true,
-                    "price": 3.50,
-                    "description-en": "Sweet rolled pastry with cinnamon.",
-                    "description-el": "Γλυκό ρολό με κανέλα.",
-                    "image": "https://images.pexels.com/photos/461060/pexels-photo-461060.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                },
-                {
-                    "id": 409,
-                    "name-en": "Donut",
-                    "name-el": "Ντόνατ",
-                    "isActive": true,
-                    "price": 2.50,
-                    "description-en": "Classic ring donut.",
-                    "description-el": "Κλασικό ντόνατ δακτυλίδι.",
-                    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
-                },
-                {
-                    "id": 410,
-                    "name-en": "Brownie",
-                    "name-el": "Μπράουνι",
-                    "isActive": true,
-                    "price": 3.00,
-                    "description-en": "Rich chocolate square.",
-                    "description-el": "Πλούσια σοκολατένια γλύκα.",
-                    "image": "https://images.pexels.com/photos/461060/pexels-photo-461060.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                },
-                {
-                    "id": 411,
-                    "name-en": "Cookie",
-                    "name-el": "Μπισκότο",
-                    "isActive": true,
-                    "price": 1.75,
-                    "description-en": "Freshly baked cookie.",
-                    "description-el": "Φρεσκοψημένο μπισκότο.",
-                    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
-                },
-                {
-                    "id": 412,
-                    "name-en": "Banana Bread",
-                    "name-el": "Ψωμί Μπανάνας",
-                    "isActive": true,
-                    "price": 3.25,
-                    "description-en": "Moist banana loaf.",
-                    "description-el": "Υγρή πίτα με μπανάνες.",
-                    "image": "https://images.pexels.com/photos/461060/pexels-photo-461060.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                },
-                {
-                    "id": 413,
-                    "name-en": "Pound Cake",
-                    "name-el": "Πάουντ Κέικ",
-                    "isActive": true,
-                    "price": 3.50,
-                    "description-en": "Dense buttery cake.",
-                    "description-el": "Πλούσιο βουτυρένιο κέικ.",
-                    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
-                },
-                {
-                    "id": 414,
-                    "name-en": "Tart",
-                    "name-el": "Τάρτα",
-                    "isActive": true,
-                    "price": 4.00,
-                    "description-en": "French-style fruit tart.",
-                    "description-el": "Γαλλικού στυλ τάρτα με φρούτα.",
-                    "image": "https://images.pexels.com/photos/461060/pexels-photo-461060.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                },
-                {
-                    "id": 415,
-                    "name-en": "Biscotti",
-                    "name-el": "Μπισκότα",
-                    "isActive": true,
-                    "price": 2.00,
-                    "description-en": "Italian almond biscuit.",
-                    "description-el": "Ιταλικό αμυγδαλένιο μπισκότο.",
-                    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "Μπισκότο oreo, πραλίνα σοκολάτα, πραλίνα λευκή σοκολάτα, φρούτα του δάσους",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 }
             ]
         },
         {
             "id": 5,
-            "name-en": "Breakfast",
-            "name-el": "Πρωινό",
+            "name-en": "Hot dogs",
+            "name-el": "Hot dogs",
             "display_order": 5,
-            "image": "https://images.unsplash.com/photo-1555243896-c709bfa0b564?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80",
+            "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
             "products": [
                 {
-                    "id": 501,
-                    "name-en": "Avocado Toast",
-                    "name-el": "Τοστ με Αβοκάντο",
+                    "id": 5001,
+                    "name-en": "The Shining",
+                    "name-el": "The Shining ",
                     "isActive": true,
-                    "price": 7.50,
-                    "description-en": "Sourdough with smashed avocado.",
-                    "description-el": "Ξινόψωμο με πουρέ αβοκάντο.",
-                    "image": "https://images.unsplash.com/photo-1555243896-c709bfa0b564?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "Lobster Brioche, Λουκάνικο Φρανκφούρτης, cheddar, Καραμελωμενο κρεμμύδι, coslaw, κέτσαπ, μουστάρδα",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
                 {
-                    "id": 502,
-                    "name-en": "Breakfast Sandwich",
-                    "name-el": "Σάντουιτς Πρωινού",
+                    "id": 5002,
+                    "name-en": "The chicken one",
+                    "name-el": "The chicken one",
                     "isActive": true,
-                    "price": 6.50,
-                    "description-en": "Egg, cheese and bacon on a croissant.",
-                    "description-el": "Αυγό, τυρί και μπέικον σε κρουασάν.",
-                    "image": "https://images.pexels.com/photos/1600711/pexels-photo-1600711.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                    "price": 1.00,
+                    "description-en": "Lobster brioche, sweet chili mayo, pico de gallo, guacamole",
+                    "description-el": "Lobster brioche, sweet chili mayo, pico de gallo, guacamole",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
                 {
-                    "id": 503,
-                    "name-en": "Oatmeal",
-                    "name-el": "Βρώμη",
+                    "id": 5003,
+                    "name-en": "Lobster brioche",
+                    "name-el": "Lobster brioche",
                     "isActive": true,
-                    "price": 5.00,
-                    "description-en": "Steel-cut oats with toppings.",
-                    "description-el": "Βρώμη με επιλογή γαρνιτούρας.",
-                    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
-                },
-                {
-                    "id": 504,
-                    "name-en": "Yogurt Parfait",
-                    "name-el": "Παρφέ Γιαουρτιού",
-                    "isActive": true,
-                    "price": 5.50,
-                    "description-en": "Greek yogurt with granola and fruit.",
-                    "description-el": "Ελληνικό γιαούρτι με γκρανόλα και φρούτα.",
-                    "image": "https://images.pexels.com/photos/6605213/pexels-photo-6605213.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                },
-                {
-                    "id": 505,
-                    "name-en": "Breakfast Burrito",
-                    "name-el": "Μπουρίτο Πρωινού",
-                    "isActive": true,
-                    "price": 8.00,
-                    "description-en": "Scrambled eggs, beans and cheese in tortilla.",
-                    "description-el": "Ομελέτα, φασόλια και τυρί σε τορτίγια.",
-                    "image": "https://images.unsplash.com/photo-1551029506-0807df4e2031?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
-                },
-                {
-                    "id": 506,
-                    "name-en": "Pancakes",
-                    "name-el": "Πανκέικς",
-                    "isActive": true,
-                    "price": 7.00,
-                    "description-en": "Stack of fluffy pancakes.",
-                    "description-el": "Στοίβα από αφράτα πανκέικς.",
-                    "image": "https://images.pexels.com/photos/461060/pexels-photo-461060.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                },
-                {
-                    "id": 507,
-                    "name-en": "Waffles",
-                    "name-el": "Βάφλες",
-                    "isActive": true,
-                    "price": 7.50,
-                    "description-en": "Crispy Belgian waffle.",
-                    "description-el": "Τραγανές βελγικές βάφλες.",
-                    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
-                },
-                {
-                    "id": 508,
-                    "name-en": "French Toast",
-                    "name-el": "Γαλλικό Τοστ",
-                    "isActive": true,
-                    "price": 7.50,
-                    "description-en": "Brioche dipped in egg batter.",
-                    "description-el": "Μπριόζα βουτηγμένη σε κουρκούτι.",
-                    "image": "https://images.pexels.com/photos/1600711/pexels-photo-1600711.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                },
-                {
-                    "id": 509,
-                    "name-en": "Eggs Benedict",
-                    "name-el": "Eggs Benedict",
-                    "isActive": true,
-                    "price": 9.50,
-                    "description-en": "Poached eggs on English muffin with hollandaise.",
-                    "description-el": "Αβγά ποσέ σε αγγλικό muffin με σάλτσα hollandaise.",
-                    "image": "https://images.unsplash.com/photo-1555243896-c709bfa0b564?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
-                },
-                {
-                    "id": 510,
-                    "name-en": "Breakfast Bowl",
-                    "name-el": "Μπολ Πρωινού",
-                    "isActive": true,
-                    "price": 8.50,
-                    "description-en": "Quinoa, greens, eggs and avocado.",
-                    "description-el": "Κινόα, χόρτα, αυγά και αβοκάντο.",
-                    "image": "https://images.pexels.com/photos/6605213/pexels-photo-6605213.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                },
-                {
-                    "id": 511,
-                    "name-en": "Bagel Sandwich",
-                    "name-el": "Σάντουιτς Μπέιγκελ",
-                    "isActive": true,
-                    "price": 6.00,
-                    "description-en": "Cream cheese, tomato and cucumber on bagel.",
-                    "description-el": "Κριμ τυρί, ντομάτα και αγγούρι σε μπέιγκελ.",
-                    "image": "https://images.unsplash.com/photo-1551029506-0807df4e2031?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
-                },
-                {
-                    "id": 512,
-                    "name-en": "Shakshuka",
-                    "name-el": "Shakshuka",
-                    "isActive": true,
-                    "price": 9.00,
-                    "description-en": "Eggs poached in tomato sauce.",
-                    "description-el": "Αβγά ποσέ σε σάλτσα ντομάτας.",
-                    "image": "https://images.pexels.com/photos/461060/pexels-photo-461060.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                },
-                {
-                    "id": 513,
-                    "name-en": "Chia Pudding",
-                    "name-el": "Πουτινγκ Chia",
-                    "isActive": true,
-                    "price": 5.50,
-                    "description-en": "Chia seeds soaked in almond milk.",
-                    "description-el": "Σπόροι chia σε γάλα αμυγδάλου.",
-                    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
-                },
-                {
-                    "id": 514,
-                    "name-en": "Breakfast Quesadilla",
-                    "name-el": "Κεσαδίγια Πρωινού",
-                    "isActive": true,
-                    "price": 7.50,
-                    "description-en": "Scrambled eggs and cheese in tortilla.",
-                    "description-el": "Ομελέτα και τυρί σε τορτίγια.",
-                    "image": "https://images.pexels.com/photos/1600711/pexels-photo-1600711.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                },
-                {
-                    "id": 515,
-                    "name-en": "Granola",
-                    "name-el": "Γκρανόλα",
-                    "isActive": true,
-                    "price": 4.50,
-                    "description-en": "House-made granola with milk.",
-                    "description-el": "Σπιτική γκρανόλα με γάλα.",
-                    "image": "https://images.unsplash.com/photo-1555243896-c709bfa0b564?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "Λουκάνικο φρανκφούρτης, cheddar, μαρμελάδα ντομάτας, coleslaw, iceberg, guacamole",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 }
             ]
         },
         {
             "id": 6,
-            "name-en": "Lunch",
-            "name-el": "Γεύμα",
+            "name-en": "Burgers",
+            "name-el": "Burgers",
             "display_order": 6,
-            "image": "https://images.pexels.com/photos/1600711/pexels-photo-1600711.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
             "products": [
                 {
-                    "id": 601,
-                    "name-en": "Grilled Cheese",
-                    "name-el": "Τηγανητή Τοστ",
+                    "id": 6001,
+                    "name-en": "Kubrick's",
+                    "name-el": "Kubrick's",
                     "isActive": true,
-                    "price": 6.50,
-                    "description-en": "Classic melted cheese sandwich.",
-                    "description-el": "Κλασικό σάντουιτς με λιωμένο τυρί.",
-                    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "Brioche bun, smashed beef burger, χειροποίητη πικλα αγγουρι, παλαιωμένο cheddar, αυγό τηγανιτό, Dijon, Μπέικον, κέτσαπ, μαγιονέζα",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
                 {
-                    "id": 602,
-                    "name-en": "BLT Sandwich",
-                    "name-el": "BLT Σάντουιτς",
+                    "id": 6002,
+                    "name-en": "Hannibal",
+                    "name-el": "Hannibal ",
                     "isActive": true,
-                    "price": 7.50,
-                    "description-en": "Bacon, lettuce and tomato on toast.",
-                    "description-el": "Μπέικον, μαρούλι και ντομάτα σε φρυγανισμένο ψωμί.",
-                    "image": "https://images.pexels.com/photos/1600711/pexels-photo-1600711.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "Brioche bun, smashed beef burger, Hannibal sauce, iceberg, Ντομάτα, σάλτσα cheddar",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
                 {
-                    "id": 603,
-                    "name-en": "Chicken Panini",
-                    "name-el": "Πανίνι Κοτόπουλο",
+                    "id": 6003,
+                    "name-en": "Chicken Truffle",
+                    "name-el": "Chicken Truffle",
                     "isActive": true,
-                    "price": 8.50,
-                    "description-en": "Pressed chicken and pesto sandwich.",
-                    "description-el": "Σάντουιτς με κοτόπουλο και πέστο σε πανίνι.",
-                    "image": "https://images.unsplash.com/photo-1551029506-0807df4e2031?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
-                },
-                {
-                    "id": 604,
-                    "name-en": "Quiche",
-                    "name-el": "Κις",
-                    "isActive": true,
-                    "price": 7.00,
-                    "description-en": "Savory egg and cheese pie.",
-                    "description-el": "Αλμυρή πίτα με αυγά και τυρί.",
-                    "image": "https://images.pexels.com/photos/461060/pexels-photo-461060.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                },
-                {
-                    "id": 605,
-                    "name-en": "Caesar Salad",
-                    "name-el": "Σαλάτα Καίσαρα",
-                    "isActive": true,
-                    "price": 8.50,
-                    "description-en": "Romaine, croutons and parmesan.",
-                    "description-el": "Μαρούλι, κρουτόν και παρμεζάνα.",
-                    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
-                },
-                {
-                    "id": 606,
-                    "name-en": "Cobb Salad",
-                    "name-el": "Σαλάτα Cobb",
-                    "isActive": true,
-                    "price": 9.50,
-                    "description-en": "Greens with chicken, bacon and eggs.",
-                    "description-el": "Χόρτα με κοτόπουλο, μπέικον και αυγά.",
-                    "image": "https://images.pexels.com/photos/1600711/pexels-photo-1600711.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                },
-                {
-                    "id": 607,
-                    "name-en": "Veggie Wrap",
-                    "name-el": "Βιγκαν Ρολό",
-                    "isActive": true,
-                    "price": 7.50,
-                    "description-en": "Grilled vegetables in tortilla.",
-                    "description-el": "Ψητά λαχανικά σε τορτίγια.",
-                    "image": "https://images.unsplash.com/photo-1555243896-c709bfa0b564?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
-                },
-                {
-                    "id": 608,
-                    "name-en": "Tuna Melt",
-                    "name-el": "Τόνος Λιωμένος",
-                    "isActive": true,
-                    "price": 8.00,
-                    "description-en": "Tuna salad with melted cheese.",
-                    "description-el": "Σαλάτα τόνου με λιωμένο τυρί.",
-                    "image": "https://images.pexels.com/photos/6605213/pexels-photo-6605213.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                },
-                {
-                    "id": 609,
-                    "name-en": "Tomato Soup",
-                    "name-el": "Κρεμμύδι Σούπα",
-                    "isActive": true,
-                    "price": 5.50,
-                    "description-en": "Creamy tomato soup.",
-                    "description-el": "Κρεμώδης σούπα ντομάτας.",
-                    "image": "https://images.unsplash.com/photo-1551029506-0807df4e2031?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
-                },
-                {
-                    "id": 610,
-                    "name-en": "Chicken Salad",
-                    "name-el": "Σαλάτα Κοτόπουλο",
-                    "isActive": true,
-                    "price": 8.50,
-                    "description-en": "Chicken with greens and dressing.",
-                    "description-el": "Κοτόπουλο με χόρτα και σάλτσα.",
-                    "image": "https://images.pexels.com/photos/461060/pexels-photo-461060.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                },
-                {
-                    "id": 611,
-                    "name-en": "Turkey Club",
-                    "name-el": "Κλαμπ Γαλοπούλας",
-                    "isActive": true,
-                    "price": 8.50,
-                    "description-en": "Triple-decker turkey sandwich.",
-                    "description-el": "Τριπλό σάντουιτς με γαλοπούλα.",
-                    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
-                },
-                {
-                    "id": 612,
-                    "name-en": "Greek Salad",
-                    "name-el": "Χωριάτικη Σαλάτα",
-                    "isActive": true,
-                    "price": 8.00,
-                    "description-en": "Cucumber, tomato, olives and feta.",
-                    "description-el": "Αγγούρι, ντομάτα, ελιές και φέτα.",
-                    "image": "https://images.pexels.com/photos/1600711/pexels-photo-1600711.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                },
-                {
-                    "id": 613,
-                    "name-en": "Avocado Salad",
-                    "name-el": "Σαλάτα Αβοκάντο",
-                    "isActive": true,
-                    "price": 8.50,
-                    "description-en": "Mixed greens with avocado and nuts.",
-                    "description-el": "Χόρτα με αβοκάντο και ξηρούς καρπούς.",
-                    "image": "https://images.unsplash.com/photo-1555243896-c709bfa0b564?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
-                },
-                {
-                    "id": 614,
-                    "name-en": "Caprese Sandwich",
-                    "name-el": "Σάντουιτς Καπρέζε",
-                    "isActive": true,
-                    "price": 7.50,
-                    "description-en": "Mozzarella, tomato and basil on ciabatta.",
-                    "description-el": "Μοτσαρέλα, ντομάτα και βασιλικός σε τσιμπάτα.",
-                    "image": "https://images.pexels.com/photos/6605213/pexels-photo-6605213.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                },
-                {
-                    "id": 615,
-                    "name-en": "Chicken Wrap",
-                    "name-el": "Ρολό Κοτόπουλο",
-                    "isActive": true,
-                    "price": 8.50,
-                    "description-en": "Grilled chicken in tortilla with veggies.",
-                    "description-el": "Ψητό κοτόπουλο σε τορτίγια με λαχανικά.",
-                    "image": "https://images.unsplash.com/photo-1551029506-0807df4e2031?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "Brioche bun, κοτοπουλο πανε, μαγιονέζα λευκής τρούφας, αβοκάντο, ντομάτα, κρεμμύδι, παρμεζάνα",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 }
             ]
         },
         {
             "id": 7,
-            "name-en": "Desserts",
-            "name-el": "Επιδόρπια",
+            "name-en": "Potatoes ",
+            "name-el": "Potatoes ",
             "display_order": 7,
-            "image": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80",
+            "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
             "products": [
                 {
-                    "id": 701,
-                    "name-en": "Cheesecake",
-                    "name-el": "Τσίζκέικ",
+                    "id": 7001,
+                    "name-en": "Classics",
+                    "name-el": "Classics",
                     "isActive": true,
-                    "price": 5.50,
-                    "description-en": "Classic New York cheesecake.",
-                    "description-el": "Κλασικό τσίζκέικ Νέας Υόρκης.",
-                    "image": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
                 {
-                    "id": 702,
-                    "name-en": "Tiramisu",
-                    "name-el": "Τιραμισού",
+                    "id": 7002,
+                    "name-en": "Cheddar, Bacon, BBQ",
+                    "name-el": "Cheddar, Bacon, BBQ",
                     "isActive": true,
-                    "price": 6.00,
-                    "description-en": "Italian coffee-flavored dessert.",
-                    "description-el": "Ιταλικό επιδόρπιο με γεύση καφέ.",
-                    "image": "https://images.pexels.com/photos/302896/pexels-photo-302896.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
                 {
-                    "id": 703,
-                    "name-en": "Chocolate Cake",
-                    "name-el": "Σοκολατόπιτα",
+                    "id": 7003,
+                    "name-en": "",
+                    "name-el": "Ροκφορ, Bacon",
                     "isActive": true,
-                    "price": 5.50,
-                    "description-en": "Rich chocolate layer cake.",
-                    "description-el": "Πλούσια σοκολατένια τούρτα.",
-                    "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
                 {
-                    "id": 704,
-                    "name-en": "Carrot Cake",
-                    "name-el": "Κέικ Καρότο",
+                    "id": 7004,
+                    "name-en": "",
+                    "name-el": "Σαλτσα φέτας",
                     "isActive": true,
-                    "price": 5.50,
-                    "description-en": "Spiced cake with cream cheese frosting.",
-                    "description-el": "Κέικ με καρότα και κρέμα τυριού.",
-                    "image": "https://images.pexels.com/photos/461060/pexels-photo-461060.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                },
-                {
-                    "id": 705,
-                    "name-en": "Creme Brulee",
-                    "name-el": "Κρεμ Μπριλέ",
-                    "isActive": true,
-                    "price": 6.50,
-                    "description-en": "Vanilla custard with caramelized sugar.",
-                    "description-el": "Κρέμα βανίλιας με καραμελωμένη ζάχαρη.",
-                    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
-                },
-                {
-                    "id": 706,
-                    "name-en": "Apple Pie",
-                    "name-el": "Μηλόπιτα",
-                    "isActive": true,
-                    "price": 5.00,
-                    "description-en": "Classic American pie.",
-                    "description-el": "Κλασική αμερικανική μηλόπιτα.",
-                    "image": "https://images.pexels.com/photos/1600711/pexels-photo-1600711.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                },
-                {
-                    "id": 707,
-                    "name-en": "Ice Cream",
-                    "name-el": "Παγωτό",
-                    "isActive": true,
-                    "price": 4.50,
-                    "description-en": "Scoop of premium ice cream.",
-                    "description-el": "Μπάλα παγωτού υψηλής ποιότητας.",
-                    "image": "https://images.unsplash.com/photo-1551029506-0807df4e2031?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
-                },
-                {
-                    "id": 708,
-                    "name-en": "Chocolate Mousse",
-                    "name-el": "Σοκολατένια Μους",
-                    "isActive": true,
-                    "price": 5.50,
-                    "description-en": "Light and airy chocolate dessert.",
-                    "description-el": "Ελαφριά σοκολατένια κρέμα.",
-                    "image": "https://images.pexels.com/photos/6605213/pexels-photo-6605213.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                },
-                {
-                    "id": 709,
-                    "name-en": "Panna Cotta",
-                    "name-el": "Πάνα Κότα",
-                    "isActive": true,
-                    "price": 6.00,
-                    "description-en": "Italian cooked cream dessert.",
-                    "description-el": "Ιταλικό επιδόρπιο με κρέμα.",
-                    "image": "https://images.pexels.com/photos/461060/pexels-photo-461060.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                },
-                {
-                    "id": 710,
-                    "name-en": "Macarons",
-                    "name-el": "Μακαρόν",
-                    "isActive": true,
-                    "price": 2.50,
-                    "description-en": "French almond meringue cookies.",
-                    "description-el": "Γαλλικά μπισκότα με αμύγδαλο.",
-                    "image": "https://images.pexels.com/photos/1600711/pexels-photo-1600711.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                },
-                {
-                    "id": 711,
-                    "name-en": "Eclair",
-                    "name-el": "Εκλέρ",
-                    "isActive": true,
-                    "price": 4.50,
-                    "description-en": "Cream-filled choux pastry.",
-                    "description-el": "Γλυκό με κρέμα και σοκολάτα.",
-                    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
-                },
-                {
-                    "id": 712,
-                    "name-en": "Cannoli",
-                    "name-el": "Καννόλι",
-                    "isActive": true,
-                    "price": 4.00,
-                    "description-en": "Italian pastry with sweet ricotta.",
-                    "description-el": "Ιταλικό γλυκό με γλυκό ρικότα.",
-                    "image": "https://images.pexels.com/photos/1600711/pexels-photo-1600711.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                },
-                {
-                    "id": 713,
-                    "name-en": "Fruit Tart",
-                    "name-el": "Τάρτα Φρούτων",
-                    "isActive": true,
-                    "price": 5.50,
-                    "description-en": "Pastry with custard and fresh fruit.",
-                    "description-el": "Τάρτα με κρέμα και φρέσκα φρούτα.",
-                    "image": "https://images.unsplash.com/photo-1551029506-0807df4e2031?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
-                },
-                {
-                    "id": 714,
-                    "name-en": "Lemon Bar",
-                    "name-el": "Λεμονένιο Γλυκό",
-                    "isActive": true,
-                    "price": 3.50,
-                    "description-en": "Tangy lemon dessert square.",
-                    "description-el": "Ξινόγλυκο επιδόρπιο με λεμόνι.",
-                    "image": "https://images.pexels.com/photos/6605213/pexels-photo-6605213.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                },
-                {
-                    "id": 715,
-                    "name-en": "Chocolate Fondant",
-                    "name-el": "Σοκολατένιο Φονντάν",
-                    "isActive": true,
-                    "price": 6.50,
-                    "description-en": "Warm chocolate cake with liquid center.",
-                    "description-el": "Ζεστή σοκολατένια τούρτα με υγρό κέντρο.",
-                    "image": "https://images.unsplash.com/photo-1555243896-c709bfa0b564?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 }
             ]
         },
         {
             "id": 8,
-            "name-en": "Combos",
-            "name-el": "Συνδυασμοί",
+            "name-en": "Pasta ",
+            "name-el": "Pasta ",
             "display_order": 8,
-            "image": "https://images.pexels.com/photos/3184183/pexels-photo-3184183.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
             "products": [
                 {
-                    "id": 801,
-                    "components": [
-                        101,
-                        401
-                    ],
-                    "name-en": "Espresso + Croissant",
-                    "name-el": "Εσπρέσο + Κρουασάν",
+                    "id": 8001,
+                    "name-en": "Carbonara",
+                    "name-el": "Carbonara",
                     "isActive": true,
-                    "price": 5.20,
-                    "description-en": "Espresso plus buttery croissant.",
-                    "description-el": "Εσπρέσο με βουτυρένιο κρουασάν.",
-                    "image": "https://images.unsplash.com/photo-1497935586351-b67a49e012bf?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
                 {
-                    "id": 802,
-                    "components": [
-                        103,
-                        405
-                    ],
-                    "name-en": "Latte + Muffin",
-                    "name-el": "Λάτε + Μάφιν",
+                    "id": 8002,
+                    "name-en": "",
+                    "name-el": "Pesto Σπανάκι",
                     "isActive": true,
-                    "price": 7.00,
-                    "description-en": "Latte with a freshly baked muffin.",
-                    "description-el": "Λάτε με φρεσκοψημένο μάφιν.",
-                    "image": "https://images.pexels.com/photos/5946778/pexels-photo-5946778.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
                 {
-                    "id": 803,
-                    "components": [
-                        102,
-                        402
-                    ],
-                    "name-en": "Cappuccino + Chocolate Croissant",
-                    "name-el": "Καπουτσίνο + Κρουασάν Σοκολάτας",
+                    "id": 8003,
+                    "name-en": "Creme cheese",
+                    "name-el": "Creme cheese",
                     "isActive": true,
-                    "price": 7.50,
-                    "description-en": "Cappuccino with chocolate croissant.",
-                    "description-el": "Καπουτσίνο με κρουασάν σοκολάτας.",
-                    "image": "https://images.unsplash.com/photo-1517705008128-361805f42e86?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
                 {
-                    "id": 804,
-                    "components": [
-                        104,
-                        406
-                    ],
-                    "name-en": "Americano + Scone",
-                    "name-el": "Αμερικάνο + Σκον",
+                    "id": 8004,
+                    "name-en": "Kubrick’s",
+                    "name-el": "Kubrick’s",
                     "isActive": true,
-                    "price": 5.50,
-                    "description-en": "Americano with British-style scone.",
-                    "description-el": "Αμερικάνο με σκον αγγλικού στυλ.",
-                    "image": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "Ψημένη σάλτσα, μοτσαρέλα, bacon",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name-en": "Salads",
+            "name-el": "Salads",
+            "display_order": 9,
+            "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "products": [
+                {
+                    "id": 9001,
+                    "name-en": "Caesar’s",
+                    "name-el": "Caesar’s",
+                    "isActive": true,
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "Iceberg, μαρούλι, bacon, nachos, κρουτόνς, caesar’s sauce, nuggets",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
                 {
-                    "id": 805,
-                    "components": [
-                        107,
-                        410
-                    ],
-                    "name-en": "Flat White + Brownie",
-                    "name-el": "Φλατ Γουάιτ + Μπράουνι",
+                    "id": 9002,
+                    "name-en": "Cos law",
+                    "name-el": "Cos law ",
                     "isActive": true,
-                    "price": 7.50,
-                    "description-en": "Flat white with rich chocolate brownie.",
-                    "description-el": "Φλατ γουάιτ με πλούσιο μπράουνι.",
-                    "image": "https://images.unsplash.com/photo-1534778101976-62847782c213?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "Λάχανο, λεμόνι, μήλο, μαγιονέζα",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
                 {
-                    "id": 806,
-                    "components": [
-                        108,
-                        411
-                    ],
-                    "name-en": "Cold Brew + Cookie",
-                    "name-el": "Κρύος Καφές + Μπισκότο",
+                    "id": 9003,
+                    "name-en": "",
+                    "name-el": "Ταμπουλέ",
                     "isActive": true,
-                    "price": 5.25,
-                    "description-en": "Cold brew coffee with fresh cookie.",
-                    "description-el": "Κρύος καφές με φρεσκοψημένο μπισκότο.",
-                    "image": "https://images.pexels.com/photos/302094/pexels-photo-302094.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "Σπανάκι, κινόα, πλιγούρι, φρέσκο μυρωδικά, σόγια, παρμεζάνα, μήλο, σάλτσα λεμονιού",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name-en": "Yogurt Bowls",
+            "name-el": "Yogurt Bowls",
+            "display_order": 10,
+            "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "products": [
+                {
+                    "id": 1001,
+                    "name-en": "Peanut butter",
+                    "name-el": "Peanut butter",
+                    "isActive": true,
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "Γιαούρτι, φυστικοβούτυρο, βανίλια granola, μπανάνα, μέλι",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
                 {
-                    "id": 807,
-                    "components": [
-                        201,
-                        401
-                    ],
-                    "name-en": "English Breakfast Tea + Croissant",
-                    "name-el": "Αγγλικό Τσάι + Κρουασάν",
+                    "id": 1002,
+                    "name-en": "Hazelnut butter",
+                    "name-el": "Hazelnut butter",
                     "isActive": true,
-                    "price": 5.00,
-                    "description-en": "Classic tea with French pastry.",
-                    "description-el": "Κλασικό τσάι με γαλλικό γλυκό.",
-                    "image": "https://images.pexels.com/photos/302896/pexels-photo-302896.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "Γιαούρτι, φυστικοβούτυρο, αμύγδαλο, σπόροι, σιρόπι σφενδάμου, μαύρες σοκολάτες, φρούτα του δάσους",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name-en": "Pizzas",
+            "name-el": "Pizzas",
+            "display_order": 11,
+            "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "products": [
+                {
+                    "id": 1101,
+                    "name-en": "Caprese",
+                    "name-el": "Caprese",
+                    "isActive": true,
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "Ντομάτα σάλτσα, μοτσαρέλα, προσούτο, pesto βασιλικού",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
                 {
-                    "id": 808,
-                    "components": [
-                        207,
-                        412
-                    ],
-                    "name-en": "Matcha Latte + Banana Bread",
-                    "name-el": "Matcha Latte + Ψωμί Μπανάνας",
+                    "id": 1102,
+                    "name-en": "Bianca",
+                    "name-el": "Bianca",
                     "isActive": true,
-                    "price": 8.00,
-                    "description-en": "Matcha with moist banana loaf.",
-                    "description-el": "Matcha με υγρό ψωμί μπανάνας.",
-                    "image": "https://images.pexels.com/photos/5946779/pexels-photo-5946779.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "Κρέμα μανιταριών, φέτα, τομάτα, μοτσαρέλα",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
                 {
-                    "id": 809,
-                    "components": [
-                        301,
-                        501
-                    ],
-                    "name-en": "Iced Latte + Avocado Toast",
-                    "name-el": "Παγωμένο Λάτε + Τοστ Αβοκάντο",
+                    "id": 1103,
+                    "name-en": "BBQ chicken",
+                    "name-el": "BBQ chicken",
                     "isActive": true,
-                    "price": 11.50,
-                    "description-en": "Iced latte with avocado toast.",
-                    "description-el": "Παγωμένο λάτε με τοστ αβοκάντο.",
-                    "image": "https://images.pexels.com/photos/1561158/pexels-photo-1561158.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "Κοτοσαλάτα, BBQ, παλαιωμένο gouda",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
                 {
-                    "id": 810,
-                    "components": [
-                        302,
-                        502
-                    ],
-                    "name-en": "Iced Mocha + Breakfast Sandwich",
-                    "name-el": "Παγωμένο Μόκα + Σάντουιτς Πρωινού",
+                    "id": 1104,
+                    "name-en": "Margarita",
+                    "name-el": "Margarita",
                     "isActive": true,
-                    "price": 12.00,
-                    "description-en": "Iced mocha with breakfast sandwich.",
-                    "description-el": "Παγωμένο μόκα με σάντουιτς πρωινού.",
-                    "image": "https://images.pexels.com/photos/4779230/pexels-photo-4779230.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "Σάλτσα, gouda, μοτσαρέλα",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
                 {
-                    "id": 811,
-                    "components": [
-                        303,
-                        503
-                    ],
-                    "name-en": "Frappuccino + Oatmeal",
-                    "name-el": "Frappuccino + Βρώμη",
+                    "id": 1105,
+                    "name-en": "Kubrick’s",
+                    "name-el": "Kubrick’s",
                     "isActive": true,
-                    "price": 10.50,
-                    "description-en": "Blended drink with steel-cut oats.",
-                    "description-el": "Ποτό με μίξερ και βρώμη.",
-                    "image": "https://images.pexels.com/photos/461060/pexels-photo-461060.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "Σάλτσα, gouda, γαλοπούλα, πιπεριά, guacamole, sauce γιαουρτιού",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name-en": "Pizzas",
+            "name-el": "Pizzas",
+            "display_order": 12,
+            "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "products": [
+                {
+                    "id": 1201,
+                    "name-en": "Club Sandwich",
+                    "name-el": "Club Sandwich",
+                    "isActive": true,
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name-en": "Schnitzelei",
+            "name-el": "Schnitzelei",
+            "display_order": 13,
+            "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "products": [
+                {
+                    "id": 1301,
+                    "name-en": "",
+                    "name-el": "Κοτόπουλο αλα κρεμ",
+                    "isActive": true,
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
                 {
-                    "id": 812,
-                    "components": [
-                        601,
-                        609
-                    ],
-                    "name-en": "Grilled Cheese + Tomato Soup",
-                    "name-el": "Τηγανητή Τοστ + Σούπα Ντομάτας",
+                    "id": 1302,
+                    "name-en": "",
+                    "name-el": "Κοτόπουλο Caesar’s",
                     "isActive": true,
-                    "price": 11.00,
-                    "description-en": "Classic comfort food combo.",
-                    "description-el": "Κλασικός συνδυασμός άνεσης.",
-                    "image": "https://images.pexels.com/photos/1600711/pexels-photo-1600711.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
                 {
-                    "id": 813,
-                    "components": [
-                        605,
-                        109
-                    ],
-                    "name-en": "Caesar Salad + Iced Coffee",
-                    "name-el": "Σαλάτα Καίσαρα + Παγωμένος Καφές",
+                    "id": 1303,
+                    "name-en": "",
+                    "name-el": "Κοτόπουλο με κρέμα παρμεζάνας / chips προσούτο",
                     "isActive": true,
-                    "price": 11.50,
-                    "description-en": "Salad with chilled coffee.",
-                    "description-el": "Σαλάτα με παγωμένο καφέ.",
-                    "image": "https://images.pexels.com/photos/6605213/pexels-photo-6605213.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
                 {
-                    "id": 814,
-                    "components": [
-                        701,
-                        103
-                    ],
-                    "name-en": "Cheesecake + Latte",
-                    "name-el": "Τσίζκέικ + Λάτε",
+                    "id": 1304,
+                    "name-en": "",
+                    "name-el": "Κοτόπουλο cheddar bacon BBQ",
                     "isActive": true,
-                    "price": 9.50,
-                    "description-en": "Dessert with coffee.",
-                    "description-el": "Επιδόρπιο με καφέ.",
-                    "image": "https://images.pexels.com/photos/461060/pexels-photo-461060.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
                 {
-                    "id": 815,
-                    "components": [
-                        702,
-                        102
-                    ],
-                    "name-en": "Tiramisu + Cappuccino",
-                    "name-el": "Τιραμισού + Καπουτσίνο",
+                    "id": 1305,
+                    "name-en": "",
+                    "name-el": "Χοιρινό με σάλτσα μουστάρδας",
                     "isActive": true,
-                    "price": 9.50,
-                    "description-en": "Italian dessert with Italian coffee.",
-                    "description-el": "Ιταλικό επιδόρπιο με ιταλικό καφέ.",
-                    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+                },
+                {
+                    "id": 1306,
+                    "name-en": "",
+                    "name-el": "Χοιρινό με κρέμα παρμεζάνας",
+                    "isActive": true,
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+                },
+                {
+                    "id": 1307,
+                    "name-en": "",
+                    "name-el": "Χοιρινό με σάλτσα μανιταριών",
+                    "isActive": true,
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+                },
+                {
+                    "id": 1308,
+                    "name-en": "",
+                    "name-el": "Χοιρινό με pepper sauce",
+                    "isActive": true,
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name-en": "Coffee",
+            "name-el": "Καφέδες",
+            "display_order": 14,
+            "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "products": [
+                {
+                    "id": 1401,
+                    "name-en": "Espresso",
+                    "name-el": "Espresso",
+                    "isActive": true,
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+                },
+                {
+                    "id": 1402,
+                    "name-en": "Americano",
+                    "name-el": "Americano",
+                    "isActive": true,
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+                },
+                {
+                    "id": 1403,
+                    "name-en": "Macchiato",
+                    "name-el": "Macchiato",
+                    "isActive": true,
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+                },
+                {
+                    "id": 1404,
+                    "name-en": "Freddo espresso",
+                    "name-el": "Freddo espresso",
+                    "isActive": true,
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+                },
+                {
+                    "id": 1405,
+                    "name-en": "Cappuccino Latte",
+                    "name-el": "Cappuccino Latte",
+                    "isActive": true,
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+                },
+                {
+                    "id": 1406,
+                    "name-en": "Iced Latte",
+                    "name-el": "Iced Latte",
+                    "isActive": true,
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+                },
+                {
+                    "id": 1407,
+                    "name-en": "Iced salted caramel latte",
+                    "name-el": "Iced salted caramel latte",
+                    "isActive": true,
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+                },
+                {
+                    "id": 1408,
+                    "name-en": "Freddo cappuccino",
+                    "name-el": "Freddo cappuccino",
+                    "isActive": true,
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+                },
+                {
+                    "id": 1409,
+                    "name-en": "Frappe",
+                    "name-el": "Frappe",
+                    "isActive": true,
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+                },
+                {
+                    "id": 1410,
+                    "name-en": "Nes",
+                    "name-el": "Nes",
+                    "isActive": true,
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+                },
+                {
+                    "id": 1411,
+                    "name-en": "",
+                    "name-el": "Φίλτρου",
+                    "isActive": true,
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+                },
+                {
+                    "id": 1412,
+                    "name-en": "",
+                    "name-el": "Ελληνικός",
+                    "isActive": true,
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name-en": "Beverages",
+            "name-el": "Ροφήματα",
+            "display_order": 15,
+            "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "products": [
+                {
+                    "id": 1501,
+                    "name-en": "",
+                    "name-el": "Σοκολάτα",
+                    "isActive": true,
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+                },
+                {
+                    "id": 1502,
+                    "name-en": "",
+                    "name-el": "Σοκολάτα λευκή",
+                    "isActive": true,
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+                },
+                {
+                    "id": 1503,
+                    "name-en": "Bueno",
+                    "name-el": "Bueno",
+                    "isActive": true,
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+                },
+                {
+                    "id": 1504,
+                    "name-en": "",
+                    "name-el": "Φυσικός χυμός πορτοκάλι",
+                    "isActive": true,
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+                },
+                {
+                    "id": 1505,
+                    "name-en": "Cocoa",
+                    "name-el": "Κακάο",
+                    "isActive": true,
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name-en": "Tea",
+            "name-el": "Ροφήματα τσαγιού",
+            "display_order": 16,
+            "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "products": [
+                {
+                    "id": 1601,
+                    "name-en": "Lemon",
+                    "name-el": "Λεμόνι",
+                    "isActive": true,
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+                },
+                {
+                    "id": 1602,
+                    "name-en": "Peach",
+                    "name-el": "Ροδάκινο",
+                    "isActive": true,
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+                },
+                {
+                    "id": 1603,
+                    "name-en": "Tea",
+                    "name-el": "Τσάι",
+                    "isActive": true,
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+                },
+                {
+                    "id": 1604,
+                    "name-en": "Chamomile",
+                    "name-el": "Χαμομήλι",
+                    "isActive": true,
+                    "price": 1.00,
+                    "description-en": "",
+                    "description-el": "",
+                    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 }
             ]
         }
