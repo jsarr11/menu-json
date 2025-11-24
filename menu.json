@@ -13,17 +13,17 @@
                     "name-el": "Scrambled Eggs",
                     "isActive": true,
                     "price": 1.00,
-                    "description-en": "",
+                    "description-en": "Croissant, parmesan, turkey, rocket, truffle mayo",
                     "description-el": "Κρουασάν, Παρμεζάνα, Γαλοπούλα, Ρόκα, Truffle Mayo",
                     "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
                 {
                     "id": 1002,
-                    "name-en": "",
+                    "name-en": "Ionian Shakshuka",
                     "name-el": "Shashouka από τα Επτάνησα",
                     "isActive": true,
                     "price": 1.00,
-                    "description-en": "",
+                    "description-en": "Zakynthian eggs with tomato, Corfiot spice mix, Lefkada salami, graviera, country bread",
                     "description-el": "Ζακυνθινά αυγά με ντομάτα, Κερκυραικο σπετσέρικο, Σαλαμίνα Λευκάδος, Γραβιέρα, Χωριάτικο ψωμί",
                     "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
@@ -33,7 +33,7 @@
                     "name-el": "Lobster Croque Madame",
                     "isActive": true,
                     "price": 1.00,
-                    "description-en": "",
+                    "description-en": "Graviera béchamel, fouantre ham, fried egg, Dijon mustard",
                     "description-el": "Μπεσαμελ γραβιέρας, Fouantre, Αυγό τηγανιτό, Dijon",
                     "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
@@ -43,7 +43,7 @@
                     "name-el": "Chicken BLT",
                     "isActive": true,
                     "price": 1.00,
-                    "description-en": "",
+                    "description-en": "Chicken salad, cheddar, bacon, iceberg, buttermilk bread",
                     "description-el": "Κοτοσαλατα, Cheddar, Bacon, Iceberg, Buttermilk Bread",
                     "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
@@ -53,7 +53,7 @@
                     "name-el": "Egg BLT",
                     "isActive": true,
                     "price": 1.00,
-                    "description-en": "",
+                    "description-en": "Omelette, smoked turkey, caramelized onion, Philadelphia cream cheese, iceberg",
                     "description-el": "Ομελέτα, Καπνιστή γαλοπούλα, Καραμελωμενο κρεμμύδι, Philadelphia, iceberg",
                     "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
@@ -63,7 +63,7 @@
                     "name-el": "Burrata Bread",
                     "isActive": true,
                     "price": 1.00,
-                    "description-en": "",
+                    "description-en": "Country bread, handmade chili butter, burrata, tomato, rocket, prosciutto",
                     "description-el": "Χωριάτικο ψωμί, Χειροποίητο chilli butter, Burrata, Ντομάτα, Ρόκα, Προσούτο",
                     "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
@@ -73,7 +73,7 @@
                     "name-el": "Avocado Toast",
                     "isActive": true,
                     "price": 1.00,
-                    "description-en": "",
+                    "description-en": "Avocado spread, egg salad",
                     "description-el": "Avocado spread, Αυγοσαλάτα",
                     "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
@@ -83,7 +83,7 @@
                     "name-el": "Mushroom omellete",
                     "isActive": true,
                     "price": 1.00,
-                    "description-en": "",
+                    "description-en": "Omelette with spinach, mushrooms, graviera",
                     "description-el": "Ομελέτα με σπανακι, Μανιτάρια,  Γραβιέρα",
                     "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
@@ -93,7 +93,7 @@
                     "name-el": "No yolk omellete ",
                     "isActive": true,
                     "price": 1.00,
-                    "description-en": "",
+                    "description-en": "Egg-white omelette, spinach pesto, cottage cheese",
                     "description-el": "Ομελέτα με ασπράδια, pesto σπανακι, Cottage cheese",
                     "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
@@ -103,7 +103,7 @@
                     "name-el": "Vegan Nuggets ",
                     "isActive": true,
                     "price": 1.00,
-                    "description-en": "",
+                    "description-en": "Hummus, rocket, multigrain bread, lemon sauce",
                     "description-el": "Χούμους, Ρόκα, Πολυσπορο ψωμί, Σάλτσα λεμονιού",
                     "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 }
@@ -122,7 +122,7 @@
                     "name-el": "Kubrick's",
                     "isActive": true,
                     "price": 1.00,
-                    "description-en": "",
+                    "description-en": "Banana, peanut butter, yogurt, vanilla, almond milk",
                     "description-el": "Μπανάνα, φυστικοβούτυρο, γιαούρτι, βανίλια, γάλα αμυγδάλου",
                     "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
@@ -132,7 +132,7 @@
                     "name-el": "Pink shake",
                     "isActive": true,
                     "price": 1.00,
-                    "description-en": "",
+                    "description-en": "Kiwi, strawberry, yogurt, oat milk, honey",
                     "description-el": "Ακτινίδιο, φράουλα, γιαούρτι, γάλα βρώμης, μέλι",
                     "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
@@ -142,7 +142,7 @@
                     "name-el": "Green",
                     "isActive": true,
                     "price": 1.00,
-                    "description-en": "",
+                    "description-en": "Spinach, orange, ginger, pineapple juice, banana, honey",
                     "description-el": "Σπανάκι, πορτοκάλι, τζίντζερ, χυμός ανανά, μπανάνα, μέλι",
                     "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
@@ -152,7 +152,7 @@
                     "name-el": "Black and Blue",
                     "isActive": true,
                     "price": 1.00,
-                    "description-en": "",
+                    "description-en": "Blueberries/blackberries, dates, banana, granola, soy milk",
                     "description-el": "Blueberries/blackberries, χουρμάδες, μπανάνα, granola, γάλα σόγιας",
                     "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 }
@@ -171,7 +171,7 @@
                     "name-el": "Cube Bricks Tripple Choc",
                     "isActive": true,
                     "price": 1.00,
-                    "description-en": "",
+                    "description-en": "Brioche French toast, sugar, cinnamon, triple chocolate",
                     "description-el": "Brioche αυγοφετα, Ζάχαρη, Κανέλα, Τριλογία Σοκολάτας",
                     "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
@@ -181,8 +181,8 @@
                     "name-el": "Brownies",
                     "isActive": true,
                     "price": 1.00,
-                    "description-en": "",
-                    "description-el": "Butter scotch, καραμελωμένο φουντούκι, παγωτό βανίλια Μαγαδασκάρης",
+                    "description-en": "Butterscotch, caramelized hazelnuts, Madagascar vanilla ice cream",
+                    "description-el": "Butterscotch, καραμελωμένο φουντούκι, παγωτό βανίλια Μαγαδασκάρης",
                     "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
                 {
@@ -191,37 +191,37 @@
                     "name-el": "Cheesecake ",
                     "isActive": true,
                     "price": 1.00,
-                    "description-en": "",
+                    "description-en": "Chocolate, red fruits",
                     "description-el": "Σοκολάτα, κόκκινα φρούτα",
                     "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
                 {
                     "id": 3004,
-                    "name-en": "",
+                    "name-en": "Chocolate Cake",
                     "name-el": "Cake σοκολάτας",
                     "isActive": true,
                     "price": 1.00,
-                    "description-en": "",
+                    "description-en": "Mascarpone, coffee, walnut",
                     "description-el": "Μασκαρπόνε, Καφές, Καρύδι",
                     "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
                 {
                     "id": 3005,
-                    "name-en": "Cake Γιαουρτιού",
+                    "name-en": "Yogurt Cake",
                     "name-el": "Cake Γιαουρτιού",
                     "isActive": true,
                     "price": 1.00,
-                    "description-en": "",
+                    "description-en": "Green apple, cardamom",
                     "description-el": "Πράσινο μήλο, κάρδαμο",
                     "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
                 {
                     "id": 3006,
-                    "name-en": "Cake Κολοκύθας",
+                    "name-en": "Pumpkin Cake",
                     "name-el": "Cake Κολοκύθας",
                     "isActive": true,
                     "price": 1.00,
-                    "description-en": "",
+                    "description-en": "Raisins, ginger, candied nuts",
                     "description-el": "Σταφίδα, Τζίντζερ, Candied Nuts",
                     "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
@@ -250,17 +250,17 @@
                     "name-el": "Salty Bacon",
                     "isActive": true,
                     "price": 1.00,
-                    "description-en": "",
+                    "description-en": "Cheddar, bacon, white sauce, fried egg",
                     "description-el": "Cheddar, bacon, white sauce, αυγό τηγανητό",
                     "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
                 {
                     "id": 4002,
-                    "name-en": "",
+                    "name-en": "Turkey Salty",
                     "name-el": "Salty Γαλοπούλας",
                     "isActive": true,
                     "price": 1.00,
-                    "description-en": "",
+                    "description-en": "Turkey, aged gouda, avocado spread, truffle mayo, fried egg",
                     "description-el": "Γαλοπούλα, gouda παλαιωμένο, avocado spread, truffle mayo, αυγό τηγανητό",
                     "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
@@ -270,7 +270,7 @@
                     "name-el": "Apple Pie",
                     "isActive": true,
                     "price": 1.00,
-                    "description-en": "",
+                    "description-en": "Patisserie cream, apple in two textures, cinnamon biscuit, almond",
                     "description-el": "Κρέμα patisserie, μήλο σε δύο υφές, μπισκότο κανέλας, αμύγδαλο",
                     "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
@@ -280,7 +280,7 @@
                     "name-el": "Oreo",
                     "isActive": true,
                     "price": 1.00,
-                    "description-en": "",
+                    "description-en": "Oreo biscuit, chocolate praline, white chocolate praline, forest fruits",
                     "description-el": "Μπισκότο oreo, πραλίνα σοκολάτα, πραλίνα λευκή σοκολάτα, φρούτα του δάσους",
                     "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 }
@@ -299,7 +299,7 @@
                     "name-el": "The Shining ",
                     "isActive": true,
                     "price": 1.00,
-                    "description-en": "",
+                    "description-en": "Lobster brioche, Frankfurt sausage, cheddar, caramelized onion, coleslaw, ketchup, mustard",
                     "description-el": "Lobster Brioche, Λουκάνικο Φρανκφούρτης, cheddar, Καραμελωμενο κρεμμύδι, coslaw, κέτσαπ, μουστάρδα",
                     "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
@@ -319,7 +319,7 @@
                     "name-el": "Lobster brioche",
                     "isActive": true,
                     "price": 1.00,
-                    "description-en": "",
+                    "description-en": "Frankfurt sausage, cheddar, tomato jam, coleslaw, iceberg, guacamole",
                     "description-el": "Λουκάνικο φρανκφούρτης, cheddar, μαρμελάδα ντομάτας, coleslaw, iceberg, guacamole",
                     "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 }
@@ -338,7 +338,7 @@
                     "name-el": "Kubrick's",
                     "isActive": true,
                     "price": 1.00,
-                    "description-en": "",
+                    "description-en": "Brioche bun, smashed beef burger, handmade pickled cucumber, aged cheddar, fried egg, Dijon, bacon, ketchup, mayo",
                     "description-el": "Brioche bun, smashed beef burger, χειροποίητη πικλα αγγουρι, παλαιωμένο cheddar, αυγό τηγανιτό, Dijon, Μπέικον, κέτσαπ, μαγιονέζα",
                     "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
@@ -348,7 +348,7 @@
                     "name-el": "Hannibal ",
                     "isActive": true,
                     "price": 1.00,
-                    "description-en": "",
+                    "description-en": "Brioche bun, smashed beef burger, Hannibal sauce, iceberg, tomato, cheddar sauce",
                     "description-el": "Brioche bun, smashed beef burger, Hannibal sauce, iceberg, Ντομάτα, σάλτσα cheddar",
                     "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
@@ -358,7 +358,7 @@
                     "name-el": "Chicken Truffle",
                     "isActive": true,
                     "price": 1.00,
-                    "description-en": "",
+                    "description-en": "Brioche bun, fried chicken, white truffle mayo, avocado, tomato, onion, parmesan",
                     "description-el": "Brioche bun, κοτοπουλο πανε, μαγιονέζα λευκής τρούφας, αβοκάντο, ντομάτα, κρεμμύδι, παρμεζάνα",
                     "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 }
@@ -393,7 +393,7 @@
                 },
                 {
                     "id": 7003,
-                    "name-en": "",
+                    "name-en": "Roquefort, Bacon",
                     "name-el": "Ροκφορ, Bacon",
                     "isActive": true,
                     "price": 1.00,
@@ -403,7 +403,7 @@
                 },
                 {
                     "id": 7004,
-                    "name-en": "",
+                    "name-en": "Feta Sauce",
                     "name-el": "Σαλτσα φέτας",
                     "isActive": true,
                     "price": 1.00,
@@ -432,7 +432,7 @@
                 },
                 {
                     "id": 8002,
-                    "name-en": "",
+                    "name-en": "Spinach Pesto",
                     "name-el": "Pesto Σπανάκι",
                     "isActive": true,
                     "price": 1.00,
@@ -456,7 +456,7 @@
                     "name-el": "Kubrick’s",
                     "isActive": true,
                     "price": 1.00,
-                    "description-en": "",
+                    "description-en": "Roasted sauce, mozzarella, bacon",
                     "description-el": "Ψημένη σάλτσα, μοτσαρέλα, bacon",
                     "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 }
@@ -475,7 +475,7 @@
                     "name-el": "Caesar’s",
                     "isActive": true,
                     "price": 1.00,
-                    "description-en": "",
+                    "description-en": "Iceberg, lettuce, bacon, nachos, croutons, Caesar’s sauce, nuggets",
                     "description-el": "Iceberg, μαρούλι, bacon, nachos, κρουτόνς, caesar’s sauce, nuggets",
                     "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
@@ -485,17 +485,17 @@
                     "name-el": "Cos law ",
                     "isActive": true,
                     "price": 1.00,
-                    "description-en": "",
+                    "description-en": "Cabbage, lemon, apple, mayo",
                     "description-el": "Λάχανο, λεμόνι, μήλο, μαγιονέζα",
                     "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
                 {
                     "id": 9003,
-                    "name-en": "",
+                    "name-en": "Tabbouleh",
                     "name-el": "Ταμπουλέ",
                     "isActive": true,
                     "price": 1.00,
-                    "description-en": "",
+                    "description-en": "Spinach, quinoa, bulgur, fresh herbs, soy, parmesan, apple, lemon sauce",
                     "description-el": "Σπανάκι, κινόα, πλιγούρι, φρέσκο μυρωδικά, σόγια, παρμεζάνα, μήλο, σάλτσα λεμονιού",
                     "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 }
@@ -514,7 +514,7 @@
                     "name-el": "Peanut butter",
                     "isActive": true,
                     "price": 1.00,
-                    "description-en": "",
+                    "description-en": "Yogurt, peanut butter, vanilla granola, banana, honey",
                     "description-el": "Γιαούρτι, φυστικοβούτυρο, βανίλια granola, μπανάνα, μέλι",
                     "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
@@ -524,7 +524,7 @@
                     "name-el": "Hazelnut butter",
                     "isActive": true,
                     "price": 1.00,
-                    "description-en": "",
+                    "description-en": "Yogurt, peanut butter, almond, seeds, maple syrup, dark chocolate, forest fruits",
                     "description-el": "Γιαούρτι, φυστικοβούτυρο, αμύγδαλο, σπόροι, σιρόπι σφενδάμου, μαύρες σοκολάτες, φρούτα του δάσους",
                     "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 }
@@ -543,7 +543,7 @@
                     "name-el": "Caprese",
                     "isActive": true,
                     "price": 1.00,
-                    "description-en": "",
+                    "description-en": "Tomato sauce, mozzarella, prosciutto, basil pesto",
                     "description-el": "Ντομάτα σάλτσα, μοτσαρέλα, προσούτο, pesto βασιλικού",
                     "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
@@ -553,7 +553,7 @@
                     "name-el": "Bianca",
                     "isActive": true,
                     "price": 1.00,
-                    "description-en": "",
+                    "description-en": "Mushroom cream, feta, tomato, mozzarella",
                     "description-el": "Κρέμα μανιταριών, φέτα, τομάτα, μοτσαρέλα",
                     "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
@@ -563,7 +563,7 @@
                     "name-el": "BBQ chicken",
                     "isActive": true,
                     "price": 1.00,
-                    "description-en": "",
+                    "description-en": "Chicken salad, BBQ sauce, aged gouda",
                     "description-el": "Κοτοσαλάτα, BBQ, παλαιωμένο gouda",
                     "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
@@ -573,7 +573,7 @@
                     "name-el": "Margarita",
                     "isActive": true,
                     "price": 1.00,
-                    "description-en": "",
+                    "description-en": "Tomato sauce, gouda, mozzarella",
                     "description-el": "Σάλτσα, gouda, μοτσαρέλα",
                     "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
@@ -583,7 +583,7 @@
                     "name-el": "Kubrick’s",
                     "isActive": true,
                     "price": 1.00,
-                    "description-en": "",
+                    "description-en": "Tomato sauce, gouda, turkey, pepper, guacamole, yogurt sauce",
                     "description-el": "Σάλτσα, gouda, γαλοπούλα, πιπεριά, guacamole, sauce γιαουρτιού",
                     "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 }
@@ -617,7 +617,7 @@
             "products": [
                 {
                     "id": 1301,
-                    "name-en": "",
+                    "name-en": "Chicken à la crème",
                     "name-el": "Κοτόπουλο αλα κρεμ",
                     "isActive": true,
                     "price": 1.00,
@@ -627,7 +627,7 @@
                 },
                 {
                     "id": 1302,
-                    "name-en": "",
+                    "name-en": "Chicken Caesar’s",
                     "name-el": "Κοτόπουλο Caesar’s",
                     "isActive": true,
                     "price": 1.00,
@@ -637,7 +637,7 @@
                 },
                 {
                     "id": 1303,
-                    "name-en": "",
+                    "name-en": "Chicken with parmesan cream / prosciutto chips",
                     "name-el": "Κοτόπουλο με κρέμα παρμεζάνας / chips προσούτο",
                     "isActive": true,
                     "price": 1.00,
@@ -647,7 +647,7 @@
                 },
                 {
                     "id": 1304,
-                    "name-en": "",
+                    "name-en": "Chicken cheddar bacon BBQ",
                     "name-el": "Κοτόπουλο cheddar bacon BBQ",
                     "isActive": true,
                     "price": 1.00,
@@ -657,7 +657,7 @@
                 },
                 {
                     "id": 1305,
-                    "name-en": "",
+                    "name-en": "Pork with mustard sauce",
                     "name-el": "Χοιρινό με σάλτσα μουστάρδας",
                     "isActive": true,
                     "price": 1.00,
@@ -667,7 +667,7 @@
                 },
                 {
                     "id": 1306,
-                    "name-en": "",
+                    "name-en": "Pork with parmesan cream",
                     "name-el": "Χοιρινό με κρέμα παρμεζάνας",
                     "isActive": true,
                     "price": 1.00,
@@ -677,7 +677,7 @@
                 },
                 {
                     "id": 1307,
-                    "name-en": "",
+                    "name-en": "Pork with mushroom sauce",
                     "name-el": "Χοιρινό με σάλτσα μανιταριών",
                     "isActive": true,
                     "price": 1.00,
@@ -687,7 +687,7 @@
                 },
                 {
                     "id": 1308,
-                    "name-en": "",
+                    "name-en": "Pork with pepper sauce",
                     "name-el": "Χοιρινό με pepper sauce",
                     "isActive": true,
                     "price": 1.00,
@@ -806,7 +806,7 @@
                 },
                 {
                     "id": 1411,
-                    "name-en": "",
+                    "name-en": "Filter Coffee",
                     "name-el": "Φίλτρου",
                     "isActive": true,
                     "price": 1.00,
@@ -816,7 +816,7 @@
                 },
                 {
                     "id": 1412,
-                    "name-en": "",
+                    "name-en": "Greek Coffee",
                     "name-el": "Ελληνικός",
                     "isActive": true,
                     "price": 1.00,
@@ -835,7 +835,7 @@
             "products": [
                 {
                     "id": 1501,
-                    "name-en": "",
+                    "name-en": "Chocolate",
                     "name-el": "Σοκολάτα",
                     "isActive": true,
                     "price": 1.00,
@@ -845,7 +845,7 @@
                 },
                 {
                     "id": 1502,
-                    "name-en": "",
+                    "name-en": "White Chocolate",
                     "name-el": "Σοκολάτα λευκή",
                     "isActive": true,
                     "price": 1.00,
@@ -865,7 +865,7 @@
                 },
                 {
                     "id": 1504,
-                    "name-en": "",
+                    "name-en": "Fresh Orange Juice",
                     "name-el": "Φυσικός χυμός πορτοκάλι",
                     "isActive": true,
                     "price": 1.00,
